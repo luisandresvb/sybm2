@@ -1,0 +1,275 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Galería fotográfica de plantaciones forestales, semillas certificadas, fuentes semilleras y productos de madera de Semillas y Bosques Mejorados S.A." />
+  <title>Galería — Semillas y Bosques Mejorados S.A.</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+  <a href="#main" class="skip-link">Saltar al contenido principal</a>
+
+  <header class="site-header" role="banner">
+    <div class="nav-wrapper">
+      <a href="index.html" class="site-logo" aria-label="Semillas y Bosques Mejorados — Inicio">
+        <img src="images/Logo-SBM-sin-fondo-300x261.png" alt="Semillas y Bosques Mejorados" width="300" height="261" />
+        <div class="site-logo-text">
+          <span class="site-logo-name">Semillas y Bosques</span>
+          <span class="site-logo-subtitle">Mejorados</span>
+          <span class="site-logo-tagline">Costa Rica</span>
+        </div>
+      </a>
+      <nav class="primary-nav" aria-label="Navegación principal">
+        <ul>
+          <li><a href="nosotros.html">Nosotros</a></li>
+          <li class="nav-dropdown">
+            <a href="semillas-forestales.html" aria-haspopup="true">Semillas Forestales</a>
+            <ul class="nav-submenu" role="menu">
+              <li role="none"><a href="semilla-certificada-teca.html" role="menuitem">Semilla de Teca</a></li>
+              <li role="none"><a href="semilla-certificada-melina.html" role="menuitem">Semilla de Melina</a></li>
+              <li role="none"><a href="lista-disponible.html" role="menuitem">Otras Especies</a></li>
+            </ul>
+          </li>
+          <li><a href="servicios.html">Servicios</a></li>
+          <li><a href="centro-documentacion.html">Documentación</a></li>
+          <li><a href="galeria.html" aria-current="page">Galería</a></li>
+          <li><a href="distribuidores.html">Distribuidores</a></li>
+          <li><a href="contactenos.html">Contáctenos</a></li>
+        </ul>
+      </nav>
+      <button class="nav-mobile-toggle" id="nav-toggle" aria-expanded="false" aria-controls="mobile-nav" aria-label="Abrir menú">
+        <span class="hamburger" aria-hidden="true"><span></span><span></span><span></span></span>
+      </button>
+    </div>
+    <nav class="mobile-nav" id="mobile-nav" aria-label="Menú móvil">
+      <div class="mobile-nav-inner">
+        <ul>
+          <li><a href="nosotros.html">Nosotros</a></li>
+          <li><a href="semillas-forestales.html">Semillas Forestales</a></li>
+          <li><ul class="mobile-nav-sub">
+            <li><a href="semilla-certificada-teca.html">— Semilla de Teca</a></li>
+            <li><a href="semilla-certificada-melina.html">— Semilla de Melina</a></li>
+            <li><a href="lista-disponible.html">— Otras Especies</a></li>
+          </ul></li>
+          <li><a href="servicios.html">Servicios</a></li>
+          <li><a href="centro-documentacion.html">Centro de Documentación</a></li>
+          <li><a href="galeria.html">Galería</a></li>
+          <li><a href="distribuidores.html">Distribuidores</a></li>
+          <li><a href="contactenos.html">Contáctenos</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <main id="main">
+    <div class="page-hero">
+      <div class="page-hero-inner">
+        <nav class="breadcrumb" aria-label="Ruta de navegación">
+          <a href="index.html">Inicio</a>
+          <span class="breadcrumb-sep" aria-hidden="true">/</span>
+          <span aria-current="page">Galería</span>
+        </nav>
+        <h1>Galería de Imágenes</h1>
+        <p class="page-hero-sub">Plantaciones forestales, fuentes semilleras y el potencial de la madera certificada en acción.</p>
+      </div>
+    </div>
+
+    <div class="page-wrap">
+      <div class="page-layout">
+
+        <article>
+          <div class="prose" style="margin-bottom: var(--sp-8);">
+            <p>
+              Una selección de imágenes que ilustran nuestro trabajo: desde las fuentes semilleras
+              autorizadas por la ONS, el proceso de recolección y escarificación de semillas,
+              hasta plantaciones comerciales y los productos finales obtenidos con madera de
+              calidad genética superior.
+            </p>
+          </div>
+
+          <!-- Section: Seeds -->
+          <section class="gallery-section" aria-labelledby="gallery-semillas-heading">
+            <h2 id="gallery-semillas-heading" class="gallery-section-title">Semillas Certificadas</h2>
+            <div class="gallery-grid">
+
+              <figure class="gallery-item">
+                <img
+                  src="images/semillas-teca.jpg"
+                  alt="Semillas certificadas de teca (Tectona grandis) listas para distribución"
+                  loading="lazy"
+                />
+                <figcaption>Semilla de teca certificada</figcaption>
+              </figure>
+
+              <figure class="gallery-item">
+                <img
+                  src="images/semillas-teca2.jpg"
+                  alt="Semilla de teca escarificada, con el cáliz removido para mejorar la germinación"
+                  loading="lazy"
+                />
+                <figcaption>Semilla de teca escarificada</figcaption>
+              </figure>
+
+              <figure class="gallery-item">
+                <img
+                  src="images/semillas-teca-ventajas.jpg"
+                  alt="Comparación de semilla de teca escarificada versus semilla con corcho"
+                  loading="lazy"
+                />
+                <figcaption>Escarificada vs. semilla con corcho</figcaption>
+              </figure>
+
+              <figure class="gallery-item">
+                <img
+                  src="images/semilla-hand.jpg"
+                  alt="Semillas forestales certificadas sostenidas en la mano"
+                  loading="lazy"
+                />
+                <figcaption>Material genético seleccionado</figcaption>
+              </figure>
+
+            </div>
+          </section>
+
+          <!-- Section: Plantations -->
+          <section class="gallery-section" aria-labelledby="gallery-plantaciones-heading">
+            <h2 id="gallery-plantaciones-heading" class="gallery-section-title">Plantaciones Forestales</h2>
+            <div class="gallery-grid">
+
+              <figure class="gallery-item">
+                <img
+                  src="images/semillas-melina.jpg"
+                  alt="Plantación de melina (Gmelina arborea) de 4 años establecida con semilla certificada de Huerto Semillero"
+                  loading="lazy"
+                />
+                <figcaption>Melina de 4 años con semilla certificada HS</figcaption>
+              </figure>
+
+              <figure class="gallery-item">
+                <img
+                  src="images/semillas-creciendo.jpg"
+                  alt="Plántulas forestales en vivero, creciendo a partir de semilla certificada"
+                  loading="lazy"
+                />
+                <figcaption>Vivero forestal con semilla certificada</figcaption>
+              </figure>
+
+              <figure class="gallery-item">
+                <img
+                  src="falsh-gallery/5-Asesoria-Clientes/img/Seminario%20Coatzacoalcos%2C%20Ver%2C%20Mex%2C%20Practica%20Campo%202006.JPG"
+                  alt="Seminario de asesoría técnica forestal en campo — Coatzacoalcos, Veracruz, México, 2006"
+                  loading="lazy"
+                />
+                <figcaption>Seminario de asesoría en campo — Veracruz, México</figcaption>
+              </figure>
+
+              <figure class="gallery-item">
+                <img
+                  src="images/socios-proyectos.jpg"
+                  alt="Socios y proyectos forestales internacionales de Semillas y Bosques Mejorados"
+                  loading="lazy"
+                />
+                <figcaption>Proyectos con socios internacionales</figcaption>
+              </figure>
+
+            </div>
+          </section>
+
+          <!-- Section: End products -->
+          <section class="gallery-section" aria-labelledby="gallery-productos-heading">
+            <h2 id="gallery-productos-heading" class="gallery-section-title">Productos Finales</h2>
+            <div class="gallery-grid">
+
+              <figure class="gallery-item">
+                <img
+                  src="images/comedor-teca-8anos-mx.jpg"
+                  alt="Juego de comedor fabricado con madera de teca de 8 años proveniente de plantación en México"
+                  loading="lazy"
+                />
+                <figcaption>Comedor de teca — 8 años, México</figcaption>
+              </figure>
+
+              <figure class="gallery-item">
+                <img
+                  src="falsh-gallery/6-Madera-y-muebles/img/Mueble%20de%20melina.JPG"
+                  alt="Mueble de madera de melina (Gmelina arborea) proveniente de plantación comercial"
+                  loading="lazy"
+                />
+                <figcaption>Mueble de melina de plantación</figcaption>
+              </figure>
+
+            </div>
+          </section>
+
+          <div class="callout" style="margin-top: var(--sp-10);">
+            <strong>¿Desea más información sobre nuestras fuentes semilleras?</strong>
+            Contáctenos y con gusto le compartimos documentación técnica y fotografías adicionales
+            de nuestras plantaciones y rodales semilleros autorizados por la ONS.
+            <br />
+            <a href="contactenos.html" style="display:inline-block; margin-top: var(--sp-3);">Escribirnos →</a>
+          </div>
+        </article>
+
+        <aside class="contact-sidebar" aria-labelledby="contact-gallery-heading">
+          <h2 id="contact-gallery-heading">Contáctenos</h2>
+          <form class="contact-form" data-validate action="scripts/contactenos.php" method="POST" novalidate>
+            <input type="hidden" name="send_from" value="info@semillasybosques.com" />
+            <div class="form-field">
+              <label for="nombre-g">Nombre <abbr title="requerido">*</abbr></label>
+              <input type="text" id="nombre-g" name="nombre" required autocomplete="name" />
+            </div>
+            <div class="form-field">
+              <label for="email-g">Email <abbr title="requerido">*</abbr></label>
+              <input type="email" id="email-g" name="email" required autocomplete="email" />
+            </div>
+            <div class="form-field">
+              <label for="telefono-g">Teléfono <abbr title="requerido">*</abbr></label>
+              <input type="tel" id="telefono-g" name="telefono" required autocomplete="tel" />
+            </div>
+            <div class="form-field">
+              <label for="pais-g">País</label>
+              <input type="text" id="pais-g" name="pais" autocomplete="country-name" />
+            </div>
+            <div class="form-field">
+              <label for="comentarios-g">Comentarios <abbr title="requerido">*</abbr></label>
+              <textarea id="comentarios-g" name="comentarios" required></textarea>
+            </div>
+            <div aria-live="polite" data-form-msg hidden class="form-msg"></div>
+            <button type="submit" class="btn-submit">Enviar mensaje</button>
+          </form>
+        </aside>
+
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer" role="contentinfo">
+    <div class="footer-inner">
+      <a href="index.html" class="footer-logo">
+        <img src="images/Logo-SBM-sin-fondo-300x261.png" alt="" width="300" height="261" aria-hidden="true" />
+        <span class="footer-logo-name">Semillas y Bosques Mejorados S.A.</span>
+      </a>
+      <nav class="footer-nav" aria-label="Mapa del sitio">
+        <a href="nosotros.html">Nosotros</a>
+        <a href="semillas-forestales.html">Semillas Forestales</a>
+        <a href="servicios.html">Servicios</a>
+        <a href="centro-documentacion.html">Documentación</a>
+        <a href="galeria.html">Galería</a>
+        <a href="distribuidores.html">Distribuidores</a>
+        <a href="contactenos.html">Contáctenos</a>
+      </nav>
+      <div class="footer-bottom">
+        <p>© 2025 Semillas y Bosques Mejorados S.A. · San José, Costa Rica</p>
+        <p>Tel: (+506) 2524-0925 · <a href="mailto:info@semillasybosques.com" style="color: var(--clr-forest-300);">info@semillasybosques.com</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="scripts/main.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <style>
+        /* Estilos para las miniaturas */
+        .thumbnail {
+            width: 100px;
+            height: 100px;
+            margin: 10px;
+            cursor: pointer;
+        }
+        /* Estilos para la ventana emergente */
+        #modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7);
+            z-index: 999;
+        }
+        #modal img {
+            max-width: 90%;
+            max-height: 90%;
+            position: absolute;
+            top: 20%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+<style type="text/css">
+body {background-color:transparent;}
+*{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#666666;
+}
+.gallery_menu{ width:550px}
+.gallery_menu ul { padding:0px; margin:0px;}
+.gallery_menu ul li{ display: inline; margin-right:10px;}
+.gallery_menu ul li a{ font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#666600; text-decoration:none;}
+.gallery_menu ul li a:hover{ text-decoration:underline;}
+.tittle{ font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #1C320E; font-weight:bold;}
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Galería de imágenes</title>
+
+<!-- Location of javascript. -->
+<script language="javascript" type="text/javascript" src="swfobject.js" ></script>
+
+</head>
+
+<body>
+<div class="gallery_menu">
+	<ul>
+    	<li><a href="../1-Fuentes_Semilleras/flashgallery.html">&bull; Fuentes Semilleras</a></li>
+        <li><a href="../2-Almacenaje_Semillas/flashgallery.html">&bull; Procesamiento y Almacenaje</a></li>
+        <li><a href="../3-Semillas-y-Viveros/flashgallery.html">&bull; Semillas y Viveros</a></li>
+        <li><a href="flashgallery.html">&bull; Establecimiento y plantaciones</a></li>
+        <li><a href="../5-Asesoria-Clientes/flashgallery.html"><br /> &bull; Asesoria Clientes</a></li>
+        <li><a href="../6-Madera-y-muebles/flashgallery.html">&bull; Madera y muebles</a></li>
+    </ul>
+</div>
+<p><span class="tittle">Establecimiento y plantaciones</span></p>
+<div style="margin-bottom:10px;">Además de seleccionar el sitio adecuado para la especie adecuada es importante hacer una buena preparación del terreno que icluye; la eliminación de la vegetación actual que compite por luz y nutrientes y el laboreo del suelo, especialmente en sitio donde el uso anterior ha compactado el suelo. En esta sección usted podrá ver fotos de diversos sistemas de preparación de sitio y plantaciones de diversas especies en diferentes lugares del trópico y subtrópico.</div>
+
+<!-- Div that contains gallery. -->
+<div id="gallery">
+    <table>
+        <tr>
+            <td><img src="img/200 ha de Cedrela odorata iniciada con Papaya. 24 meses edad..jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Acrocarpus fraxinifolius 12 meses Morelia, Mx..jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Acrocarpus fraxinifolius 36 meses Peten, Guatemala Falta manejo.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Cedrela odorata en Argentina, La Moraleja.jpg" class="thumbnail" onclick="showImage(this)"></td>
+        </tr>
+        <tr>
+            <td><img src="img/E.urograndis 8 meses El Buho Colombia.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Fracaso Plantacion Super Clon Asia en Guatemala.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Hibrido de Khaya senegalensis x K. ivorensis IIF Cuba, 2008.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Melia azaderach var. gigantea Sta Cruz Bolivia R.Aguirre.jpg" class="thumbnail" onclick="showImage(this)"></td>
+        </tr>
+        <tr>
+            <td><img src="img/Paraiso Gigante Bolivia 10 year Buen Crecimiento.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Plant melina F.Rojas FONAFIFO.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Plantacion 10 anios  23 a 43cm dap. 5x5 m. Desis y Tamaron cada 22 dias.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Plantacion 3 anios Cerebo Sta Cruz Bolivia.jpg" class="thumbnail" onclick="showImage(this)"></td>
+        </tr>
+        <tr>
+            <td><img src="img/Plantacion Cerebo Sta Cruz Bolivia 8x8 m Plywood.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Plantacion de 12 meses en Nayarit, Mexico con semilla de S&BM.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Plantacion de 6 meses en La Maquina, Guatemala.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Plantacion de Cerebo (Schizolobium parahyba) en Sta Cruz, Bolivia 3anios.jpg" class="thumbnail" onclick="showImage(this)"></td>
+        </tr>
+        <tr>
+            <td><img src="img/Plantacion de teca de 12 meses en Nayarit, Mexico con Semillas de S&BM.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/PLantacion de teca reciente Ing. Pantaleon, Guatemala.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Plantacion Gmelina 12 meses Sarapiqui, Costa Rica para tarimas.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Plantacion Gmelina 4 anios 19cm 24 m2 G Costa Rica.jpg" class="thumbnail" onclick="showImage(this)"></td>
+        </tr>
+        <tr>
+            <td><img src="img/Plantacion Teca 36 meses Semilla C.Rica Maquina Gt.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Plantacion Teca Uraba, Colombia, RIA, 12 meses Semilla Certif de Costa Rica.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Plantacion teca Venteak, Venezuela.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Plantaciones Cordia alliodora en Tabasco, Mx. JCS.jpg" class="thumbnail" onclick="showImage(this)"></td>
+        </tr>
+        <tr>
+            <td><img src="img/Plantaciones Teca Manabi, Ecuador Sin Manejo.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/PlantacionTabebuia rosea sobre vertisoles Nagarote, Nicaragua 2 a 3anios.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Prep Terreno con riego goteo teca Sta Genoveva, Campeche, Mx.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Preparacion Terreno Peten, Guatemala D8.jpg" class="thumbnail" onclick="showImage(this)"></td>
+        </tr>
+        <tr>
+            <td><img src="img/Preparacion Terreno y plantacion de teca en San Carlos, Costa Rica.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/T.grandis 36 meses Morelia, Mx. Procedencia Sta Cruz.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/T.grandis 4-a 3.5m 15m altura y 12 cm dap Veracruz, Mx.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/T.grandis de CATIE. 6meses, Uraba, Plan Colombia Forestal..jpg" class="thumbnail" onclick="showImage(this)"></td>
+        </tr>
+        <tr>
+            <td><img src="img/T.grandis proced.CATIE. El Tecal, Ecuador. 12 meses..jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Teca en area de Banano 18 meses, Buena preparacion suelo. Bl059.Fco.Rizzo.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/V.guatemalensis 17-a 34 m altura OTS.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/V.guatemalensis 40 a 60 cm 17-a OTS C.Rica.jpg" class="thumbnail" onclick="showImage(this)"></td>
+        </tr>
+    </table>
+</div>
+<!-- Ventana emergente para mostrar la imagen en tamaño grande -->
+    <div id="modal" onclick="hideImage()">
+        <img id="modal-image">
+    </div>
+
+    <script>
+        function showImage(img) {
+            const modal = document.getElementById('modal');
+            const modalImage = document.getElementById('modal-image');
+            modalImage.src = img.src;
+            modal.style.display = 'block';
+        }
+
+        function hideImage() {
+            const modal = document.getElementById('modal');
+            modal.style.display = 'none';
+        }
+    </script>
+<br/>
+</body>
+</html>

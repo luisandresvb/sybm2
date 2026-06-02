@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style type="text/css">
+body {background-color:transparent;}
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Galería de imágenes</title>
+
+<!-- Location of javascript. -->
+<script language="javascript" type="text/javascript" src="swfobject.js" ></script>
+
+</head>
+
+<body>
+
+<!-- Div that contains gallery. -->
+<div id="gallery">
+<h1>No se encuentra el Flash Player!</h1>
+<p>No es posible encontrar el Flash Player. <a href="http://www.macromedia.com/go/getflashplayer" >Click aqui</a> para ir a la pagina oficial de Adobe Flash Player.</p>
+</div>
+
+<!-- Script that embeds gallery. -->
+<script language="javascript" type="text/javascript">
+var so = new SWFObject("flashgallery.swf", "gallery", "550", "320", "5"); // Location of swf file. You can change gallery width and height here (using pixels or percents).
+so.addParam("quality", "high");
+so.addParam("allowFullScreen", "true");
+so.addVariable("content_path","img"); // Location of a folder with JPG and PNG files (relative to php script) or a link to Flickr photostream (for example "http://www.flickr.com/photos/username/" or "http://www.flickr.com/photos/username/sets/setid/").
+so.addVariable("color_path","default.xml"); // Location of xml file with settings.
+so.addVariable("script_path","flashgallery.php"); // Location of php script (not requred if you work with Flickr).
+so.write("gallery");
+</script>
+<br/>
+</body>
+</html>

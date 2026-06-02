@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<settings
+
+thumb_bg_color="EEEEEE"
+thumb_bg_over="999999"
+scroll_but_bg="1a1007"
+scroll_but_arrow="FFFFFF"
+scroll_but_bg_over="403726"
+scroll_but_arrow_over="FFFFFF"
+big_pic_border="FFFFFF"
+next_pic_bg="1a1007"
+next_pic_arrow="ffffff"
+next_pic_bg_over="403726"
+next_pic_arrow_over="FFFFFF"
+background_color="ebe7de"
+text_color="FFFFFF"
+
+text_visible="on"
+fullscreen_visible="on"
+
+/>

@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <style>
+        /* Estilos para las miniaturas */
+        .thumbnail {
+            width: 100px;
+            height: 100px;
+            margin: 10px;
+            cursor: pointer;
+        }
+        /* Estilos para la ventana emergente */
+        #modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7);
+            z-index: 999;
+        }
+        #modal img {
+            max-width: 90%;
+            max-height: 90%;
+            position: absolute;
+            top: 20%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+<style type="text/css">
+body {background-color:transparent;}
+*{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#666666;
+}
+.gallery_menu{ width:550px}
+.gallery_menu ul { padding:0px; margin:0px;}
+.gallery_menu ul li{ display: inline; margin-right:10px;}
+.gallery_menu ul li a{ font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#666600; text-decoration:none;}
+.gallery_menu ul li a:hover{ text-decoration:underline;}
+.tittle{ font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #1C320E; font-weight:bold;}
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Galería de imágenes</title>
+
+<!-- Location of javascript. -->
+<script language="javascript" type="text/javascript" src="swfobject.js" ></script>
+
+</head>
+
+<body>
+<div class="gallery_menu">
+	<ul>
+    	<li><a href="../1-Fuentes_Semilleras/flashgallery.html">&bull; Fuentes Semilleras</a></li>
+        <li><a href="../2-Almacenaje_Semillas/flashgallery.html">&bull; Procesamiento y Almacenaje</a></li>
+        <li><a href="flashgallery.html">&bull; Semillas y Viveros</a></li>
+        <li><a href="../4-Establecimiento-y-Mantenimiento/flashgallery.html">&bull; Establecimiento y plantaciones</a></li>
+        <li><a href="../5-Asesoria-Clientes/flashgallery.html"><br /> &bull; Asesoria Clientes</a></li>
+        <li><a href="../6-Madera-y-muebles/flashgallery.html">&bull; Madera y muebles</a></li>
+    </ul>
+</div>
+<p><span class="tittle">Semillas y Viveros</span></p>
+<div style="margin-bottom:10px;">Existen muchos sistemas de producción de planta desde bolsas, charolas, jiffy, tubetes, etc. Para tener una buena calidad de planta el proceso de producción debe ser cuidadoso. En esta sección observará diferentes sistemas de producción y siembra de semillas.</div>
+
+<!-- Div that contains gallery. -->
+<div id="gallery">
+    <table>
+        <tr>
+            <td><img src="img/Calidad planta teca antes repique.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Ptilodactyla pos rugulosa (1).jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Semilla de Gmelina arborea.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Siembra directa a tubete teca Sta Genoveva, Mx.jpg" class="thumbnail" onclick="showImage(this)"></td>
+        </tr>
+        <tr>
+            <td><img src="img/Semilla de tempate (Jatropha curcas).jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Semilla teca pretratada.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Siembra Directa Jiffy Semilla Gmelina pregerminada.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Siembra o repique en Jiffy, Panama.jpg" class="thumbnail" onclick="showImage(this)"></td>
+        </tr>
+        <tr>
+            <td><img src="img/Teca con 6 hojas lista para el campo, Panama.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Teca Densidad de Siembra- Arena Panama.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Teca en bolsa Uraba, Colombia 7 semanas.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Teca en Jiffy, Galeron de Maduracion Darien, Panama.jpg" class="thumbnail" onclick="showImage(this)"></td>
+        </tr>
+        <tr>
+            <td><img src="img/Teca en tubetes bajo invernadero en Guatemala.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Teca Extraccion para repique a Jiffy Panama  2 semanas 3.5kxm2.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Teca germinada para repique Sn Carlos, Costa Rica.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Teca Germinando en San Carlos, Costa Rica 3 kilospor metro.jpg" class="thumbnail" onclick="showImage(this)"></td>
+        </tr>
+        <tr>
+            <td><img src="img/Teca germinando Uraba, Colombia.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Tunel Produccion teca en Jiffy San Carlos, Costa Rica.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td><img src="img/Vivero temporal teca en Apartado, Colombia.jpg" class="thumbnail" onclick="showImage(this)"></td>
+            <td></td>
+        </tr>
+</div>
+<!-- Ventana emergente para mostrar la imagen en tamaño grande -->
+<div id="modal" onclick="hideImage()">
+    <img id="modal-image">
+</div>
+
+<script>
+    function showImage(img) {
+        const modal = document.getElementById('modal');
+        const modalImage = document.getElementById('modal-image');
+        modalImage.src = img.src;
+        modal.style.display = 'block';
+    }
+
+    function hideImage() {
+        const modal = document.getElementById('modal');
+        modal.style.display = 'none';
+    }
+</script>
+<br/>
+</body>
+</html>

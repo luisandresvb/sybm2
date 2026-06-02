@@ -1,0 +1,4 @@
+<flash_project name="flashgallery" version="1">
+	<project_file filetype="fla" path="./flashgallery.fla" profile=""/>
+	<project_file filetype="as" path=".mx/utils/Delegate.as"/>
+</flash_project>

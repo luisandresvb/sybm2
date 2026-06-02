@@ -1,0 +1,3525 @@
+# Webalizer V2.01-10 Incremental Data - 03/27/2012 06:45:08
+2012 3 27 6 45 8
+10085 9069 716 170 125 158 944369740 2542 1669 0
+7 1 243 1 27
+406 376 42889582 38 90 60
+232 210 18675276 34 75 53
+265 243 17988823 56 77 55
+226 186 18502613 27 71 51
+445 422 47661695 44 100 69
+574 519 56269925 46 115 75
+360 333 38874066 35 98 64
+435 400 36127880 43 119 72
+390 345 36549653 42 97 71
+334 267 28922548 48 117 71
+299 257 26467622 25 71 59
+554 532 55818677 41 105 64
+581 515 69922851 47 153 69
+421 351 37812037 73 103 73
+313 280 28547831 43 83 65
+264 220 16931020 40 96 60
+241 204 16189173 32 77 57
+269 242 21021619 46 83 67
+337 313 23361742 43 96 68
+482 415 42334506 46 130 71
+499 461 54134304 53 84 58
+414 389 46045337 32 84 56
+430 402 42888348 52 98 60
+296 265 22420324 44 69 55
+250 207 15060683 32 88 57
+748 703 82433115 47 150 77
+20 12 518490 7 13 12
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+160 139 10472024 53
+108 85 4494981 65
+141 94 2824020 71
+93 67 5373197 60
+122 88 9375151 72
+113 91 11118815 61
+224 183 17597217 118
+194 163 8572366 67
+443 380 42269782 112
+340 305 21716791 116
+490 454 52223498 105
+583 532 57345378 127
+667 599 57406212 139
+822 789 63613694 169
+862 800 114332108 193
+745 676 66079976 166
+582 534 65063956 115
+694 657 74523923 134
+586 536 70858467 92
+411 382 34464019 87
+418 380 56127066 103
+491 441 33555132 115
+586 516 52223927 124
+210 178 12738040 78
+0
+0
+0
+9069
+0
+0
+0
+0
+0
+185
+0
+0
+0
+0
+362
+0
+0
+0
+0
+0
+0
+469
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/images/bg_page.jpg
+0 314 82551975641393 160038 0 0
+/images/psi_logo.jpg
+0 57 3615645338249818725 1211535 0 0
+/falsh-gallery/5-Asesoria-Clientes/img/Seminario Coatzacoalcos, Ver, Mex. 2006.JPG
+0 1 0 113249 0 0
+/
+0 1023 0 2469202 970 769
+/falsh-gallery/3-Semillas-y-Viveros/img/Teca en tubetes bajo invernadero en Guatemala.jpg
+0 2 0 611112 0 0
+/falsh-gallery/5-Asesoria-Clientes/img/Seminario Coatzacoalcos, Ver, Mex, Practica Campo 2006.JPG
+0 1 0 243999 0 0
+/images/nuestros-servicios.jpg
+0 94 0 433890 0 0
+/flash/semillasybosques.swf
+0 400 0 614824149 0 0
+/falsh-gallery/3-Semillas-y-Viveros/swfobject.js
+0 7 0 47054 0 0
+/semillas-forestales.html
+0 128 0 751281 51 44
+/images/semillas-teca.jpg
+0 146 0 4498376 0 0
+/falsh-gallery/1-Fuentes_Semilleras/img/Rodal Semillero Urbelino, Palo Arco.jpg
+0 17 0 6377261 0 0
+/galeria.html
+0 83 0 322776 19 15
+/falsh-gallery/1-Fuentes_Semilleras/flashgallery.swf
+0 36 0 2075640 0 0
+/falsh-gallery/5-Asesoria-Clientes/img/Taller de Manejo Plantacion Eucalyptus sp Mexico 2006.JPG
+0 1 0 397030 0 0
+/falsh-gallery/5-Asesoria-Clientes/flashgallery.php
+0 3 3544664075297434934 10863 0 0
+/falsh-gallery/5-Asesoria-Clientes/flashgallery.html
+0 8 8299630756770689586 20358 4 4
+/falsh-gallery/1-Fuentes_Semilleras/img/Flores y frutos de teca.jpg
+0 23 397530048 6641871 0 0
+/falsh-gallery/6-Madera-y-muebles/img/Sillas de melina.JPG
+0 7 0 2448446 0 0
+/falsh-gallery/2-Almacenaje_Semillas/flashgallery.html
+0 9 0 23429 5 4
+/falsh-gallery/1-Fuentes_Semilleras/img/Racimo floral y flores de teca.jpg
+0 20 0 7990020 0 0
+/distribuidores.html
+0 124 0 663030 52 23
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/200 ha de Cedrela odorata iniciada con Papaya. 24 meses edad..jpg
+0 4 0 643496 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Plantacion Teca Uraba, Colombia, RIA, 12 meses Semilla Certif de Costa Ric
+0 2 0 565206 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Paraiso Gigante Bolivia 10 year Buen Crecimiento.jpg
+0 3 0 1659954 0 0
+/falsh-gallery/5-Asesoria-Clientes/img/Asesoria Forestan de Nicaragua 8 ha plantadas E.Saligna, nin, caoba.JPG
+0 2 0 407270 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/swfobject.js
+0 6 0 40332 0 0
+/falsh-gallery/3-Semillas-y-Viveros/img/Calidad planta teca antes repique.jpg
+0 5 0 2411645 0 0
+/falsh-gallery/3-Semillas-y-Viveros/img/Semilla de tempate (Jatropha curcas).jpg
+0 3 0 435951 0 0
+/falsh-gallery/5-Asesoria-Clientes/img/Visita de Empresarios de Asoteca y Megatrexa de Ecuador a plantaciones de teca en Costa 
+0 1 0 227229 0 0
+/falsh-gallery/1-Fuentes_Semilleras/img/Huerto Semillero Injertado P.caribaea var caribae Cuba, 2008.jpg
+0 21 0 2300109 0 0
+/falsh-gallery/5-Asesoria-Clientes/img/Visita del Dr. Jose Cibrian Tobar de CONAFOR a Costa Rica.JPG
+0 1 0 392403 0 0
+/falsh-gallery/6-Madera-y-muebles/swfobject.js
+0 9 0 60498 0 0
+/images/semillas-creciendo.jpg
+0 50 0 4507950 0 0
+/falsh-gallery/2-Almacenaje_Semillas/flashgallery.swf
+0 1 0 59304 0 0
+/doc/Protocolo-de-teca-S
+0 43 0 7763547 35 23
+/falsh-gallery/1-Fuentes_Semilleras/img/Arbol plus de pochote (B.quinata).jpg
+0 31 0 18533629 0 0
+/falsh-gallery/5-Asesoria-Clientes/img/Taller Manejo Plantaciones Chiapas Mx 2006.JPG
+0 1 0 209190 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/V.guatemalensis 40 a 60 cm 17-a OTS C.Rica.jpg
+0 2 0 464572 0 0
+/falsh-gallery/1-Fuentes_Semilleras/img/Huerto Semillero Pinus caribaea var caribaea Cuba, 2008..jpg
+0 21 0 14583828 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Acrocarpus fraxinifolius 12 meses Morelia, Mx..jpg
+0 4 3761119436194590263 1679504 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Plantacion de Cerebo (Schizolobium parahyba) en Sta Cruz, Bolivia 3anios.j
+0 3 8386597741499854133 1398405 0 0
+/falsh-gallery/5-Asesoria-Clientes/img/Visita Asistencia Tecnica Ing. Pantaleon, Guatamela.JPG
+0 1 0 348644 0 0
+/falsh-gallery/2-Almacenaje_Semillas/img/Camara Almacenaje 5 grados Problema del CH.JPG
+0 1 0 83394 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Prep Terreno con riego goteo teca Sta Genoveva, Campeche, Mx.jpg
+0 2 0 847902 0 0
+/falsh-gallery/6-Madera-y-muebles/default.xml
+0 9 0 3834 0 0
+/falsh-gallery/3-Semillas-y-Viveros/img/Siembra o repique en Jiffy, Panama.jpg
+0 3 0 727014 0 0
+/falsh-gallery/3-Semillas-y-Viveros/img/Teca Densidad de Siembra- Arena Panama.jpg
+0 2 0 1037802 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Plantacion de 12 meses en Nayarit, Mexico con semilla de S
+0 3 0 1431042 0 0
+/images/semillasybosques-logo.jpg
+0 327 0 7423276 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Plantacion teca Venteak, Venezuela.jpg
+0 2 0 298172 0 0
+/falsh-gallery/3-Semillas-y-Viveros/img/Teca Germinando en San Carlos, Costa Rica 3 kilospor metro.jpg
+0 2 0 228226 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/T.grandis 4-a 3.5m 15m altura y 12 cm dap Veracruz, Mx.jpg
+0 2 0 161508 0 0
+/images/contact-us.jpg
+0 324 0 1104104 0 0
+/servicios.html
+0 77 0 365046 20 16
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/V.guatemalensis 17-a 34 m altura OTS.jpg
+0 2 0 766444 0 0
+/falsh-gallery/5-Asesoria-Clientes/img/Visita AT Green Milenium Peten, Guatemala.JPG
+0 1 0 156971 0 0
+/falsh-gallery/3-Semillas-y-Viveros/flashgallery.swf
+0 5 0 296520 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Plantaciones Teca Manabi, Ecuador Sin Manejo.jpg
+0 2 0 702408 0 0
+/lista-disponible.html
+0 110 0 1999396 44 22
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Plantacion Cerebo Sta Cruz Bolivia 8x8 m Plywood.jpg
+0 3 0 1318167 0 0
+/falsh-gallery/1-Fuentes_Semilleras/img/Flor de teca.jpg
+0 25 0 4847950 0 0
+/images/asoteca.jpg
+0 57 0 769440 0 0
+/doc/REGLAMENTO-TECNICO-PARA-LA-CERTIFICACI\xc3\x93N-DE-SEMILLAS-Y-PLANTULAS-DE-ESPECIES-FORESTALES-ONS-26-3-2009.pdf
+0 4 0 295132 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/flashgallery.swf
+0 6 0 355824 0 0
+/centro-documentacion.html
+0 75 0 336180 23 19
+/images/menu_bg.jpg
+0 318 0 3444703 0 0
+/images/refor.jpg
+0 55 0 510125 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/PLantacion de teca reciente Ing. Pantaleon, Guatemala.jpg
+0 3 0 988260 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Plantacion de teca de 12 meses en Nayarit, Mexico con Semillas de S
+0 3 1836016430 1423350 0 0
+/falsh-gallery/5-Asesoria-Clientes/img/Proyecto 7mil ha G.arborea Con semilla HS CATIE. Tabasco, Mx..JPG
+0 1 0 140394 0 0
+/falsh-gallery/5-Asesoria-Clientes/swfobject.js
+0 2 3330755182538522624 13444 0 0
+/falsh-gallery/1-Fuentes_Semilleras/flashgallery.php
+0 54 0 140734 0 0
+/falsh-gallery/1-Fuentes_Semilleras/default.xml
+0 54 0 23004 0 0
+/doc/REGLAMENTO-TECNICO-PARA-LA-CERTIFICACIÓN-DE-SEMILLAS-Y-PLANTULAS-DE-ESPECIES-FORESTALES-ONS-26-3-2009.pdf
+0 37 0 3971318 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Melia azaderach var. gigantea Sta Cruz Bolivia R.Aguirre.jpg
+0 3 0 1158396 0 0
+/falsh-gallery/3-Semillas-y-Viveros/img/Tunel Produccion teca en Jiffy San Carlos, Costa Rica.jpg
+0 2 0 216626 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/T.grandis de CATIE. 6meses, Uraba, Plan Colombia Forestal..jpg
+0 2 0 437468 0 0
+/falsh-gallery/5-Asesoria-Clientes/default.xml
+0 3 0 1278 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Plantacion Gmelina 12 meses Sarapiqui, Costa Rica para tarimas.jpg
+0 2 0 882168 0 0
+/falsh-gallery/3-Semillas-y-Viveros/flashgallery.html
+0 13 0 31550 6 4
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Preparacion Terreno Peten, Guatemala D8.jpg
+0 2 0 762442 0 0
+/falsh-gallery/3-Semillas-y-Viveros/img/Teca con 6 hojas lista para el campo, Panama.jpg
+0 2 0 742564 0 0
+/semilla-certificada-melina.html
+0 112 0 564970 46 22
+/falsh-gallery/5-Asesoria-Clientes/img/Visita AT Venteak, Guanare, Venezuela Practica de Raleo.JPG
+0 1 0 249799 0 0
+/doc/GUIA_TECNICA_PARA_LA_PRODUCCION_DE_SEMILLA_FORESTAL_CERTIFICADA_Y_AUTORIZADA.pdf
+0 56 0 31924317 0 0
+/falsh-gallery/3-Semillas-y-Viveros/img/Teca germinando Uraba, Colombia.jpg
+0 2 0 755978 0 0
+/falsh-gallery/6-Madera-y-muebles/img/Tarimas de Gmelina arborea C.Rica.jpg
+0 7 0 305578 0 0
+/falsh-gallery/1-Fuentes_Semilleras/img/Arbol plus de teca en plantacion de Colombia.jpg
+0 33 0 13717862 0 0
+/favicon.ico
+0 295 0 4818660 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Plantacion de 6 meses en La Maquina, Guatemala.jpg
+0 3 0 1130187 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/T.grandis proced.CATIE. El Tecal, Ecuador. 12 meses..jpg
+0 2 0 611504 0 0
+/images/separator_footer.jpg
+0 315 0 128940 0 0
+/falsh-gallery/1-Fuentes_Semilleras/img/Arbol clonal de teca.jpg
+0 32 0 2873607 0 0
+/falsh-gallery/2-Almacenaje_Semillas/flashgallery.php
+0 3 0 1269 0 0
+/scripts/contactenos.php
+0 810 0 1364474 0 0
+/falsh-gallery/3-Semillas-y-Viveros/img/Teca en bolsa Uraba, Colombia 7 semanas.jpg
+0 2 0 810728 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Preparacion Terreno y plantacion de teca en San Carlos, Costa Rica.jpg
+0 2 72057594037927936 217134 0 0
+/falsh-gallery/3-Semillas-y-Viveros/img/Teca Extraccion para repique a Jiffy Panama  2 semanas 3.5kxm2.jpg
+0 2 3328221895722217774 750182 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Teca en area de Banano 18 meses, Buena preparacion suelo. Bl059.Fco.Rizzo.
+0 2 0 850810 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Fracaso Plantacion Super Clon Asia en Guatemala.jpg
+0 3 0 844266 0 0
+/images/referencias-tecnicas.jpg
+0 93 0 1165410 0 0
+/falsh-gallery/6-Madera-y-muebles/flashgallery.swf
+0 8 0 474432 0 0
+/css/page_css.css
+0 355 0 2218294 0 0
+/falsh-gallery/3-Semillas-y-Viveros/img/Teca germinada para repique Sn Carlos, Costa Rica.jpg
+0 2 0 154650 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Hibrido de Khaya senegalensis x K. ivorensis IIF Cuba, 2008.jpg
+0 3 0 1270326 0 0
+/images/semillas-teca-ventajas.jpg
+0 148 0 5281812 0 0
+/falsh-gallery/1-Fuentes_Semilleras/img/Rodal Semillero Teca  Jicaral, Guanacaste.jpg
+0 18 0 9193986 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/T.grandis 36 meses Morelia, Mx. Procedencia Sta Cruz.jpg
+0 2 0 1216716 0 0
+/images/logo_bg.jpg
+0 313 0 107665 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Acrocarpus fraxinifolius 36 meses Peten, Guatemala Falta manejo.jpg
+0 4 0 2155692 0 0
+/images/arborizaciones.jpg
+0 58 0 870580 0 0
+/falsh-gallery/5-Asesoria-Clientes/img/Asistentes Curso Manejo Operativo Bancos Germoplasma Puebla 2003.JPG
+0 2 0 461636 0 0
+/falsh-gallery/5-Asesoria-Clientes/img/Charla en el Instituto de Investigaciones Forestales de Cuba, 2008.JPG
+0 2 0 480736 0 0
+/scripts/validation-banner.js
+0 317 0 1077174 0 0
+/falsh-gallery/3-Semillas-y-Viveros/img/Teca en Jiffy, Galeron de Maduracion Darien, Panama.jpg
+0 2 0 776786 0 0
+/falsh-gallery/2-Almacenaje_Semillas/default.xml
+0 3 0 1278 0 0
+/falsh-gallery/5-Asesoria-Clientes/img/Visita AT a Stan Genoveva, Campecha Mx.JPG
+0 1 0 283364 0 0
+/images/semilla.jpg
+0 86 0 45567 0 0
+/doc/REGLAMENTO-TECNICO-PARA-LA-CERTIFICACI�\x93N-DE-SEMILLAS-Y-PLANTULAS-DE-ESPECIES-FORESTALES-ONS-26-3-2009.pdf
+0 1 0 147566 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Plant melina F.Rojas FONAFIFO.jpg
+0 2 0 530466 0 0
+/falsh-gallery/3-Semillas-y-Viveros/img/Ptilodactyla pos rugulosa (1).jpg
+0 5 0 430300 0 0
+/images/semillas-melina.jpg
+0 51 0 1224714 0 0
+/falsh-gallery/6-Madera-y-muebles/flashgallery.html
+0 14 0 39988 5 4
+/falsh-gallery/1-Fuentes_Semilleras/swfobject.js
+0 37 8316741136869752832 235270 0 0
+/falsh-gallery/3-Semillas-y-Viveros/flashgallery.php
+0 7 7809911782418692401 25206 0 0
+/images/amepanfor_logo.jpg
+0 58 1304079235 1036054 0 0
+/falsh-gallery/5-Asesoria-Clientes/flashgallery.swf
+0 2 0 118608 0 0
+/falsh-gallery/6-Madera-y-muebles/img/Mueble de melina.JPG
+0 7 0 4355022 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/flashgallery.php
+0 5 0 40335 0 0
+/doc/C.VITAE-W-VASQUEZS-Abril-09.pdf
+0 68 0 5277772 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Plantacion 3 anios Cerebo Sta Cruz Bolivia.jpg
+0 3 0 1306584 0 0
+/falsh-gallery/1-Fuentes_Semilleras/img/Avispa no identificada polinizando teca en Huerto Semillero.jpg
+0 29 0 11168016 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/default.xml
+0 5 0 2130 0 0
+/falsh-gallery/3-Semillas-y-Viveros/img/Siembra directa a tubete teca Sta Genoveva, Mx.jpg
+0 3 0 1411479 0 0
+/falsh-gallery/2-Almacenaje_Semillas/swfobject.js
+0 1 0 6722 0 0
+/images/CERTIFICACION-LOGO.jpg
+0 327 0 4565518 0 0
+/images/william.jpg
+0 51 0 531447 0 0
+/flash/distribuidores.swf
+0 92 0 8966307 0 0
+/nosotros.html
+0 108 0 656115 43 18
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Plantaciones Cordia alliodora en Tabasco, Mx. JCS.jpg
+0 3 0 895935 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Plantacion Teca 36 meses Semilla C.Rica Maquina Gt.jpg
+0 2 0 935450 0 0
+/falsh-gallery/5-Asesoria-Clientes/img/Proyecto 7mil ha G.arborea Con semilla HS. Tabasco, Mx..JPG
+0 2 0 280788 0 0
+/falsh-gallery/1-Fuentes_Semilleras/img/Entrega Certificado de la ONS a  Propietario Fuente Certificada.jpg
+0 27 0 9505566 0 0
+/images/bienvenidos.jpg
+0 94 0 1259167 0 0
+/falsh-gallery/5-Asesoria-Clientes/img/Asesoria Tecnica Silvotecnia S.A, Uraba , Colombia.JPG
+0 2 0 457762 0 0
+/semilla-certificada-teca.html
+0 235 0 2013510 184 42
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Plantacion Gmelina 4 anios 19cm 24 m2 G Costa Rica.jpg
+0 2 0 922498 0 0
+/falsh-gallery/3-Semillas-y-Viveros/default.xml
+0 7 0 2982 0 0
+/contactenos.html
+0 94 0 444222 24 18
+/falsh-gallery/5-Asesoria-Clientes/img/Asesoria Tecnia Uraba, Colombia.JPG
+0 2 0 466110 0 0
+/images/spacer.jpg
+0 313 0 246135 0 0
+/doc/Protocolo-melina-S
+0 163 7308830254002495847 15833245 109 39
+/falsh-gallery/1-Fuentes_Semilleras/img/Frutos teca recien escarificados.jpg
+0 21 82198301704497 1667127 0 0
+/falsh-gallery/2-Almacenaje_Semillas/img/Semilla escarificada y sin escarificar.JPG
+0 1 0 327169 0 0
+/falsh-gallery/6-Madera-y-muebles/img/Muebles con Eucalyptus grandis Colombia.JPG
+0 7 8602278188327988577 3785271 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Cedrela odorata en Argentina, La Moraleja.jpg
+0 3 0 246351 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/PlantacionTabebuia rosea sobre vertisoles Nagarote, Nicaragua 2 a 3anios.j
+0 2 0 271088 0 0
+/images/semillas-teca2.jpg
+0 149 0 4417837 0 0
+/falsh-gallery/3-Semillas-y-Viveros/img/Semilla de Gmelina arborea.jpg
+0 4 0 403712 0 0
+/images/semilla-hand.jpg
+0 87 0 2058336 0 0
+/falsh-gallery/3-Semillas-y-Viveros/img/Semilla teca pretratada.jpg
+0 3 0 254457 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Plantacion 10 anios  23 a 43cm dap. 5x5 m. Desis y Tamaron cada 22 dias.jp
+0 3 0 930783 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/E.urograndis 8 meses El Buho Colombia.jpg
+0 3 0 399636 0 0
+/falsh-gallery/6-Madera-y-muebles/flashgallery.php
+0 8 0 5336 0 0
+/falsh-gallery/1-Fuentes_Semilleras/img/Evaluacion Fuente Semillera teca en Colombia.jpg
+0 26 0 11880050 0 0
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/flashgallery.html
+0 10 0 26888 3 2
+/falsh-gallery/3-Semillas-y-Viveros/img/Vivero temporal teca en Apartado, Colombia.jpg
+0 2 0 894470 0 0
+/falsh-gallery/1-Fuentes_Semilleras/flashgallery.html
+0 45 0 139776 8 5
+/falsh-gallery/3-Semillas-y-Viveros/img/Siembra Directa Jiffy Semilla Gmelina pregerminada.jpg
+0 3 0 695244 0 0
+# End Of Table - urls
+# -sites- (monthly)
+baiduspider-220-181-108-181.crawl.baidu.com
+0 2 2 13756 2 1331328651
+/
+baiduspider-123-125-71-83.crawl.baidu.com
+0 1 1 24504 0 0
+-
+baiduspider-220-181-108-185.crawl.baidu.com
+0 4 3 20634 3 1331789680
+/
+186.98.234.215
+0 14 14 1780605 1 1331364739
+/semillas-forestales.html
+dsl-189-236-37-84-dyn.prod-infinitum.com.mx
+0 15 15 1803205 1 1332353156
+/semilla-certificada-melina.html
+222.162.216.201.static.intelnet.net.gt
+0 35 35 5300143 1 1331568618
+/
+dinamic-tigo186-97-6-82.tigo.com.co
+0 17 17 1881507 1 1332174490
+/semilla-certificada-teca.html
+adsl201-244113020.dyn.etb.net.co
+0 4 4 256680 1 1331673143
+/doc/Protocolo-melina-S
+static-bafibra190-0-33-250.epm.net.co
+0 91 91 11196199 1 1331042257
+/semilla-certificada-teca.html
+baiduspider-123-125-71-94.crawl.baidu.com
+0 3 3 18577 2 1331537610
+/
+baiduspider-123-125-71-98.crawl.baidu.com
+0 1 0 0 0 0
+-
+201.197.203.44
+0 21 21 1956423 1 1331053467
+/
+190.118.73.56
+0 37 37 3493106 1 1332763148
+/contactenos.html
+74-82-64-33.rdns.blackberry.net
+0 7 7 86189 1 1331753408
+/semillas-forestales.html
+201.170.232.221.dsl.dyn.telnor.net
+0 20 20 1940025 1 1331905021
+/
+190.62.152.249
+0 4 4 144088 0 0
+-
+43.254.56.190.dynamic.intelnet.net.gt
+0 17 17 1881507 1 1332445515
+/semilla-certificada-teca.html
+200-11-199-170.genericrev.cantv.net
+0 16 16 1865109 1 1331195991
+/semilla-certificada-teca.html
+66.75.18.95.dynamic.jazztel.es
+0 36 36 4678318 1 1332767451
+/contactenos.html
+msnbot-207-46-12-165.search.msn.com
+0 1 0 0 0 0
+-
+iy-in-f89.1e100.net
+0 1 0 0 1 1331323597
+/doc/Protocolo-melina-S
+baiduspider-220-181-108-78.crawl.baidu.com
+0 1 1 6255 1 1332152225
+/distribuidores.html
+195-178-212-190.enitel.net.ni
+0 52 52 3995688 2 1331889561
+/lista-disponible.html
+190.110.95.101
+0 14 14 1793828 1 1331124126
+/lista-disponible.html
+187-178-197-60.dynamic.axtel.net
+0 17 17 1897804 1 1330644298
+/nosotros.html
+dsl-189-151-59-118-dyn.prod-infinitum.com.mx
+0 21 21 3653281 1 1331048992
+/nosotros.html
+186.14.233.168
+0 15 15 1803205 1 1330616846
+/semilla-certificada-melina.html
+190-76-190-96.dyn.movilnet.com.ve
+0 8 8 734343 2 1332324871
+/doc/Protocolo-melina-S
+dsl-189-130-42-65-dyn.prod-infinitum.com.mx
+0 20 20 3540981 1 1330980572
+/semilla-certificada-melina.html
+dsl-189-229-48-242-dyn.prod-infinitum.com.mx
+0 1 1 120141 1 1332270454
+/doc/Protocolo-melina-S
+220.181.127.123
+0 1 1 6878 1 1331894488
+/
+197.251.56.190.static.intelnet.net.gt
+0 26 26 5688082 1 1330878363
+/doc/Protocolo-melina-S
+baiduspider-220-181-108-89.crawl.baidu.com
+0 1 1 10001 1 1332151063
+/semilla-certificada-teca.html
+qa-in-f47.1e100.net
+0 1 0 0 1 1332771980
+/doc/Protocolo-de-teca-S
+dynamic-ip-adsl-190.186.108.200.cotas.com.bo
+0 19 19 1856824 1 1332331382
+/distribuidores.html
+181.144.71.102
+0 46 46 6857858 1 1332276519
+/contactenos.html
+ec2-50-16-94-25.compute-1.amazonaws.com
+0 1 1 6878 1 1330591488
+/
+baiduspider-220-181-108-92.crawl.baidu.com
+0 1 1 5531 1 1332077078
+/servicios.html
+baiduspider-220-181-108-96.crawl.baidu.com
+0 2 2 17180 2 1332482802
+/semillas-forestales.html
+201.191.198.118
+0 4 4 70236 1 1331712528
+/semilla-certificada-teca.html
+qy-in-f84.1e100.net
+0 1 1 36414 0 0
+-
+dsl-187-194-242-49-dyn.prod-infinitum.com.mx
+0 17 17 2269219 1 1331247646
+/semillas-forestales.html
+cable190-249-25-119.une.net.co
+0 15 15 174608 1 1331575952
+/semilla-certificada-teca.html
+adsl190-71-233-53.epm.net.co
+0 65 65 7333716 1 1331480253
+/nosotros.html
+sticker00.yandex.ru
+0 42 28 192584 7 1332675318
+/
+customer-187-157-1-114-sta.uninet-ide.com.mx
+0 6 6 63388 0 0
+-
+customer-201-134-190-252.uninet-ide.com.mx
+0 21 21 2060166 2 1332234701
+/doc/Protocolo-melina-S
+pz-in-f81.1e100.net
+0 1 1 23542 0 0
+-
+unproxy5.unal.edu.co
+0 9 9 44740 1 1332251358
+/semilla-certificada-teca.html
+63.245.15.44.cstmr.multidatahn.net
+0 4 4 311530 0 0
+-
+crawl-66-249-72-85.googlebot.com
+0 65 30 7129827 14 1332801250
+/centro-documentacion.html
+190121142194.ip55.static.static.mediacommerce.com.co
+0 17 17 1881507 1 1332502525
+/semilla-certificada-teca.html
+190-92-46-169.reverse.cablecolor.hn
+0 4 4 232086 0 0
+-
+static-ip-186147126148.cable.net.co
+0 1 1 120141 1 1330784301
+/doc/Protocolo-melina-S
+msnbot-65-52-110-16.search.msn.com
+0 1 1 1683 0 0
+-
+190.33.196.165
+0 75 75 5449322 2 1332243580
+/semilla-certificada-melina.html
+dsl-189-137-111-24-dyn.prod-infinitum.com.mx
+0 28 28 4320558 1 1332571726
+/
+201008002135.user.veloxzone.com.br
+0 15 14 1793828 1 1332275348
+/lista-disponible.html
+8.network49.190.tigo.net.gt
+0 1 1 120141 1 1330761656
+/doc/Protocolo-melina-S
+dynamic-ip-1868624767.cable.net.co
+0 17 17 1881507 1 1331061198
+/semilla-certificada-teca.html
+pz-in-f84.1e100.net
+0 2 1 353 1 1331771491
+/doc/Protocolo-melina-S
+ycar2.mobile.bf1.yahoo.com
+0 2 2 23276 1 1332775227
+/
+msnbot-65-52-110-146.search.msn.com
+0 4 1 3076 1 1330872370
+/falsh-gallery/6-Madera-y-muebles/flashgallery.html
+qy-in-f98.1e100.net
+0 1 1 807 0 0
+-
+dynamic-ip-186801429.cable.net.co
+0 4 4 256680 1 1331236688
+/doc/Protocolo-melina-S
+baiduspider-220-181-108-100.crawl.baidu.com
+0 1 1 5765 1 1331373137
+/semilla-certificada-melina.html
+hs222.sfo1.peakwebhosting.com
+0 120 120 1197800 1 1332767298
+/contactenos.html
+dynamic-ip-18681118219.cable.net.co
+0 21 20 3610105 1 1332096818
+/semilla-certificada-teca.html
+baiduspider-220-181-108-104.crawl.baidu.com
+0 2 2 12050 2 1331757028
+/
+157.253.213.95
+0 20 20 1912969 1 1332761045
+/semilla-certificada-melina.html
+baiduspider-220-181-108-108.crawl.baidu.com
+0 2 2 19827 1 1332150131
+/
+dinamic-tigo186-97-47-164.tigo.com.co
+0 17 17 1881507 1 1330706521
+/semilla-certificada-teca.html
+dsl-189-236-41-125-dyn.prod-infinitum.com.mx
+0 16 16 1865109 1 1330696974
+/semilla-certificada-teca.html
+titan434.server4you.de
+0 1 1 6878 1 1331916690
+/
+dsl-189-247-203-190-dyn.prod-infinitum.com.mx
+0 14 14 1780605 1 1331222268
+/semillas-forestales.html
+grupocomeca.com
+0 14 14 1884348 2 1331134087
+/semillas-forestales.html
+escazu-a280.racsa.co.cr
+0 37 37 4811447 1 1331059723
+/falsh-gallery/1-Fuentes_Semilleras/flashgallery.html
+200.87.159.52
+0 13 13 1764207 1 1331659294
+/semillas-forestales.html
+baiduspider-220-181-108-111.crawl.baidu.com
+0 1 1 7055 1 1332151993
+/nosotros.html
+190.66.25.18
+0 3 3 199318 0 0
+-
+baiduspider-123-125-71-13.crawl.baidu.com
+0 1 1 147566 0 0
+-
+201.237.110.54
+0 46 46 2283930 1 1331519354
+/servicios.html
+baiduspider-220-181-108-119.crawl.baidu.com
+0 1 1 4821 0 0
+-
+baiduspider-123-125-71-17.crawl.baidu.com
+0 2 2 0 0 0
+-
+msnbot-207-46-13-212.search.msn.com
+0 3 0 0 1 1331348799
+/distribuidores.html
+201.194.220.178
+0 18 18 1888070 1 1330884074
+/semilla-certificada-teca.html
+dup-201-104-202-230.prod-dial.com.mx
+0 21 21 3171016 1 1332159596
+/
+msnbot-207-46-199-47.search.msn.com
+0 7 0 0 3 1331617149
+/semilla-certificada-teca.html
+dsl-187-143-42-155-dyn.prod-infinitum.com.mx
+0 2 2 240282 1 1330730615
+/doc/Protocolo-melina-S
+186.176.211.37
+0 17 17 1897804 1 1332198270
+/nosotros.html
+pz-in-f87.1e100.net
+0 1 1 20402 1 1331684164
+/lista-disponible.html
+adsl-190-3-240-174.edatel.net.co
+0 18 18 1883190 1 1332614357
+/semilla-certificada-teca.html
+dsl-187-135-37-203-dyn.prod-infinitum.com.mx
+0 1 1 120141 1 1331070323
+/doc/Protocolo-melina-S
+baiduspider-220-181-108-122.crawl.baidu.com
+0 1 1 6878 1 1330719216
+/
+baiduspider-123-125-71-20.crawl.baidu.com
+0 1 1 0 0 0
+-
+201.207.189.6
+0 25 25 2990887 1 1332241535
+/lista-disponible.html
+adsl190-71-217-101.epm.net.co
+0 74 74 16761879 1 1332526290
+/falsh-gallery/1-Fuentes_Semilleras/flashgallery.html
+baiduspider-123-125-71-24.crawl.baidu.com
+0 1 1 0 0 0
+-
+baiduspider-180-76-5-172.crawl.baidu.com
+0 1 0 0 1 1331420561
+/doc/Protocolo-melina-S
+dsl-189-187-214-55-dyn.prod-infinitum.com.mx
+0 15 15 1795511 1 1331982843
+/lista-disponible.html
+msnbot-207-46-199-16.search.msn.com
+0 6 5 1707998 1 1331701428
+/semilla-certificada-melina.html
+186.90.156.124
+0 25 25 1945599 1 1331567569
+/semillas-forestales.html
+dsl-187-204-28-167-dyn.prod-infinitum.com.mx
+0 83 83 20996891 1 1332448353
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/img/Plantacion Teca Uraba, Colombia, RIA, 12 meses Semilla Certif de Costa Ric
+ip134-10.ct.co.cr
+0 21 21 4182407 1 1331120715
+/semilla-certificada-teca.html
+195.72.158.251
+0 1 1 6878 1 1331310988
+/
+msnbot-157-55-39-86.search.msn.com
+0 294 267 1898731 48 1332825279
+/
+201.161.24.148
+0 18 18 1883190 1 1331982298
+/semilla-certificada-teca.html
+baiduspider-123-125-71-35.crawl.baidu.com
+0 2 2 14536 0 0
+-
+gy-in-f90.1e100.net
+0 1 1 13740 0 0
+-
+dsl-189-177-21-55-dyn.prod-infinitum.com.mx
+0 27 27 2030602 1 1330803744
+/distribuidores.html
+dsl-189-130-163-113-dyn.prod-infinitum.com.mx
+0 20 20 1940025 1 1331915556
+/
+qw-in-f91.1e100.net
+0 1 1 3494 0 0
+-
+186.103.123.200
+0 23 23 1900949 2 1332078327
+/servicios.html
+80.224.108.144.static.user.ono.com
+0 1 1 6878 1 1332640006
+/
+186.2.136.234
+0 14 14 1770770 1 1331898309
+/semillas-forestales.html
+msnbot-157-55-18-21.search.msn.com
+0 3 0 0 2 1331824328
+/semillas-forestales.html
+201.204.94.48
+0 49 49 6940797 1 1331554760
+/semillas-forestales.html
+baiduspider-220-181-108-140.crawl.baidu.com
+0 2 2 12050 2 1331940254
+/centro-documentacion.html
+tpbc1.gedas.com.mx
+0 24 24 1956257 1 1330958179
+/lista-disponible.html
+baiduspider-220-181-108-144.crawl.baidu.com
+0 1 1 6255 1 1331388987
+/distribuidores.html
+baiduspider-123-125-71-46.crawl.baidu.com
+0 1 0 0 0 0
+-
+190-201-11-156.dyn.dsl.cantv.net
+0 22 22 6930914 1 1331659070
+/contactenos.html
+gy-in-f82.1e100.net
+0 1 1 23542 0 0
+-
+166.238.97.31
+0 20 20 2085312 1 1331825381
+/semilla-certificada-teca.html
+baiduspider-123-125-71-103.crawl.baidu.com
+0 3 3 17250 2 1331839808
+/
+dsl-187-192-137-48-dyn.prod-infinitum.com.mx
+0 85 67 10388070 1 1331648668
+/distribuidores.html
+msnbot-65-52-110-151.search.msn.com
+0 4 1 5531 2 1330765583
+/distribuidores.html
+baiduspider-220-181-108-151.crawl.baidu.com
+0 1 1 10001 1 1331549789
+/semilla-certificada-teca.html
+baiduspider-220-181-108-155.crawl.baidu.com
+0 1 1 120141 1 1330651426
+/doc/Protocolo-melina-S
+222.244.67.90
+0 1 0 0 0 0
+-
+static-adsl190-250-198-26.une.net.co
+0 41 41 3880771 1 1332438084
+/centro-documentacion.html
+201.205.142.50
+0 4 4 232086 0 0
+-
+baiduspider-220-181-108-159.crawl.baidu.com
+0 1 1 3494 0 0
+-
+host-190.95.209.254.uio.telconet.net
+0 33 33 3924935 1 1331050486
+/semilla-certificada-melina.html
+yi-in-f80.1e100.net
+0 1 1 12949 0 0
+-
+180.76.6.213
+0 1 0 0 1 1332646909
+/doc/Protocolo-melina-S
+99-71-213-93.lightspeed.mdldtx.sbcglobal.net
+0 4 4 0 4 1332508120
+/
+ec2-184-72-207-247.compute-1.amazonaws.com
+0 17 16 1940806 1 1332686076
+/doc/Protocolo-melina-S
+static.200.95.4.46.clients.your-server.de
+0 8 4 27512 2 1332108173
+/
+dsl-187-151-71-31-dyn.prod-infinitum.com.mx
+0 21 21 2772617 1 1331837682
+/distribuidores.html
+baiduspider-123-125-71-110.crawl.baidu.com
+0 3 3 20634 3 1331703007
+/
+baiduspider-123-125-71-114.crawl.baidu.com
+0 5 5 41349 4 1332052538
+/
+dsl-189-188-246-161-dyn.prod-infinitum.com.mx
+0 20 20 1940025 1 1332107687
+/
+baiduspider-220-181-108-162.crawl.baidu.com
+0 1 1 5531 1 1331373572
+/servicios.html
+rtp5-dmz-wsa-1.cisco.com
+0 17 17 1881507 1 1330734737
+/semilla-certificada-teca.html
+dsl-189-247-240-149-dyn.prod-infinitum.com.mx
+0 14 14 1793828 1 1330794159
+/lista-disponible.html
+135.cmcd-186-66-210.gye.satnet.net
+0 1 1 120141 1 1331775785
+/doc/Protocolo-melina-S
+83.177.216.201.static.intelnet.net.gt
+0 17 17 1881507 1 1332263103
+/semilla-certificada-teca.html
+38.100.21.21
+0 19 19 111733 1 1332513332
+/falsh-gallery/5-Asesoria-Clientes/flashgallery.html
+baiduspider-220-181-108-166.crawl.baidu.com
+0 1 1 1683 0 0
+-
+186.42.50.140
+0 20 20 1858663 1 1331306332
+/distribuidores.html
+ic-dinamica-200-114-17-208.intercable.net.co
+0 37 26 2230786 1 1331484475
+/semillas-forestales.html
+yi-in-f91.1e100.net
+0 2 2 5370 0 0
+-
+pz-in-f103.1e100.net
+0 2 2 1330 0 0
+-
+gy-in-f85.1e100.net
+0 4 4 3366 0 0
+-
+190-76-179-119.dyn.movilnet.com.ve
+0 39 39 3796579 2 1330632314
+/nosotros.html
+dsl-187-143-222-193-dyn.prod-infinitum.com.mx
+0 22 22 1912489 1 1330810552
+/servicios.html
+msnbot-207-46-192-50.search.msn.com
+0 4 2 398003 2 1330750606
+/nosotros.html
+qw-in-f86.1e100.net
+0 1 1 30130 0 0
+-
+220.181.51.103
+0 1 1 6878 1 1331621857
+/
+201.198.138.236
+0 39 39 3863652 2 1332172874
+/
+206-53-144-160.rdns.blackberry.net
+0 3 3 18553 0 0
+-
+baiduspider-220-181-108-173.crawl.baidu.com
+0 3 3 20634 3 1331699785
+/
+220.181.51.104
+0 2 2 13756 2 1332475485
+/
+220.181.51.105
+0 1 1 6878 1 1332475485
+/
+220.181.51.106
+0 2 2 13756 2 1331621856
+/
+baiduspider-123-125-71-75.crawl.baidu.com
+0 1 1 13837 0 0
+-
+baiduspider-220-181-108-177.crawl.baidu.com
+0 3 3 20634 3 1331652656
+/
+nipple3.mail.ru
+0 4 1 6878 1 1332529324
+/
+baiduspider-123-125-71-79.crawl.baidu.com
+0 2 1 13837 0 0
+-
+186.112.118.55
+0 14 14 1793828 1 1332278078
+/lista-disponible.html
+200.21.45.90
+0 4 4 256680 1 1330596777
+/doc/Protocolo-melina-S
+186-26-46-243.dyn.movilnet.com.ve
+0 20 20 1940025 1 1331554235
+/
+cw03.swebot-crawler.net
+0 18 17 2088372 1 1331619318
+/semilla-certificada-teca.html
+yi-in-f83.1e100.net
+0 2 2 5177 0 0
+-
+190-201-75-129.dyn.dsl.cantv.net
+0 4 4 256680 1 1330784168
+/doc/Protocolo-melina-S
+201.237.193.26
+0 2 2 215688 0 0
+-
+baiduspider-220-181-108-180.crawl.baidu.com
+0 2 2 13756 2 1331677910
+/
+crawl-66-249-71-72.googlebot.com
+0 134 62 9811619 54 1332321033
+/semillas-forestales.html
+spider-100-43-83-149.yandex.com
+0 112 74 18654721 62 1332785391
+/nosotros.html
+baiduspider-220-181-108-184.crawl.baidu.com
+0 5 5 34390 5 1332077068
+/
+baiduspider-123-125-71-82.crawl.baidu.com
+0 2 1 4821 0 0
+-
+68-171-231-80.rdns.blackberry.net
+0 3 3 8472 1 1331747797
+/contactenos.html
+190.67.253.128
+0 17 17 1881507 1 1331577996
+/semilla-certificada-teca.html
+yi-in-f94.1e100.net
+0 3 3 1580 0 0
+-
+msnbot-207-46-194-142.search.msn.com
+0 3 2 17821 1 1332235573
+/nosotros.html
+dsl-189-236-38-113-dyn.prod-infinitum.com.mx
+0 4 4 256680 1 1331377733
+/doc/Protocolo-melina-S
+dsl-189-132-188-189-dyn.prod-infinitum.com.mx
+0 15 15 1803205 1 1330881776
+/semilla-certificada-melina.html
+201.195.126.4
+0 1 1 250437 1 1330951883
+/doc/Protocolo-de-teca-S
+190.140.148.68
+0 28 28 2031669 1 1330705345
+/distribuidores.html
+200.24.222.230
+0 18 18 1891508 1 1331040730
+/semilla-certificada-teca.html
+qw-in-f89.1e100.net
+0 1 1 14536 0 0
+-
+spider-77-88-42-25.yandex.com
+0 1 1 6878 1 1330601798
+/
+baiduspider-123-125-71-97.crawl.baidu.com
+0 1 0 0 0 0
+-
+fixed-203-70-194.iusacell.net
+0 1 1 107844 0 0
+-
+msnbot-65-52-108-148.search.msn.com
+0 4 0 0 1 1331623841
+/distribuidores.html
+gx-in-f83.1e100.net
+0 1 1 807 0 0
+-
+dsl-189-188-193-252-dyn.prod-infinitum.com.mx
+0 4 4 256680 1 1331205980
+/doc/Protocolo-melina-S
+yi-in-f86.1e100.net
+0 1 1 23542 0 0
+-
+181.145.203.145
+0 1 1 107844 0 0
+-
+61.135.249.13
+0 1 1 6878 1 1331380162
+/
+static-208-80-194-71.as13448.com
+0 1 1 30130 0 0
+-
+dynamic-ip-186145225230.cable.net.co
+0 19 19 1888296 1 1332508896
+/contactenos.html
+61.135.249.15
+0 1 1 6878 1 1332033189
+/
+200.84.175-116.dyn.dsl.cantv.net
+0 14 14 1765890 1 1330697948
+/semillas-forestales.html
+gx-in-f94.1e100.net
+0 2 2 29797 1 1332530081
+/distribuidores.html
+58.218.211.74
+0 1 0 0 0 0
+-
+38.111.147.83
+0 26 4 124377 2 1331866450
+/doc/Protocolo-de-teca-S
+190.255.9.28
+0 2 2 124242 0 0
+-
+22.16.149.201.in-addr.arpa
+0 17 17 1881507 1 1330953951
+/semilla-certificada-teca.html
+n128-227-98-108.xlate.ufl.edu
+0 1 1 120141 1 1332313181
+/doc/Protocolo-melina-S
+dsl-187-143-148-91-dyn.prod-infinitum.com.mx
+0 17 17 1812067 1 1332358156
+/semillas-forestales.html
+msnbot-65-52-110-19.search.msn.com
+0 1 0 0 1 1331056179
+/distribuidores.html
+61.135.249.225
+0 1 1 6878 1 1332089223
+/
+customer-gdl-123-55.megared.net.mx
+0 17 17 1881507 1 1330646266
+/semilla-certificada-teca.html
+baiduspider-220-181-108-80.crawl.baidu.com
+0 3 3 17749 3 1332669143
+/
+190-203-9-6.dyn.dsl.cantv.net
+0 20 20 1940025 1 1332333401
+/
+dsl-189-132-155-98-dyn.prod-infinitum.com.mx
+0 15 15 1800391 1 1332714811
+/lista-disponible.html
+gx-in-f86.1e100.net
+0 2 2 24741 0 0
+-
+ks206121.kimsufi.com
+0 2 1 6878 1 1330614049
+/
+baiduspider-220-181-108-88.crawl.baidu.com
+0 1 1 6878 1 1332452107
+/
+yi-in-f89.1e100.net
+0 2 2 5169 0 0
+-
+173-212-197-242.static.hostnoc.net
+0 1 1 6878 1 1331303440
+/
+ycar11.mobile.sp1.yahoo.com
+0 2 2 23276 1 1331244387
+/
+customer-207-74.porta.net
+0 19 19 1856824 1 1332776342
+/distribuidores.html
+dsl-189-149-251-112-dyn.prod-infinitum.com.mx
+0 1 1 120141 1 1332628016
+/doc/Protocolo-melina-S
+adsl-190-165-252-106.une.net.co
+0 43 43 6926859 1 1331320803
+/servicios.html
+61.135.249.39
+0 1 1 6878 1 1332024019
+/
+61.135.249.233
+0 1 1 6878 1 1331275871
+/
+190.34.189.2
+0 6 6 1845081 1 1330610857
+/
+baiduspider-220-181-108-91.crawl.baidu.com
+0 1 1 10001 1 1331372912
+/semilla-certificada-teca.html
+srstub-130.pn.sth.portlane.net
+0 1 1 6878 1 1331701027
+/
+68-171-231-83.rdns.blackberry.net
+0 1 1 1839 0 0
+-
+baiduspider-220-181-108-95.crawl.baidu.com
+0 4 4 19676 2 1332150366
+/galeria.html
+msnbot-207-46-12-28.search.msn.com
+0 1 0 0 0 0
+-
+201.205.51.209
+0 31 31 2039175 1 1331653697
+/distribuidores.html
+50.97.184.53-static.reverse.softlayer.com
+0 20 0 0 1 1331369969
+-
+61.135.249.43
+0 1 1 6878 1 1331995286
+/
+61.135.249.44
+0 1 1 6878 1 1331956649
+/
+61.135.249.48
+0 1 1 6878 1 1331352921
+/
+client-201.230.118.230.speedy.net.pe
+0 89 89 7291230 2 1332541512
+/lista-disponible.html
+178.236.60.190.host.ifxnetworks.com
+0 2 2 136539 1 1332244756
+/doc/Protocolo-melina-S
+msnbot-65-52-109-147.search.msn.com
+0 3 1 120141 3 1331838500
+/semilla-certificada-melina.html
+dynamic-ip-adsl-201.222.114.82.cotas.com.bo
+0 41 41 6973453 1 1331627898
+/falsh-gallery/1-Fuentes_Semilleras/flashgallery.html
+gx-in-f89.1e100.net
+0 1 1 6563 0 0
+-
+zebra946.startdedicated.com
+0 2 0 0 0 0
+-
+69.171.242.250
+0 1 1 40961 0 0
+-
+226-80-212-190.enitel.net.ni
+0 4 4 1735161 0 0
+-
+dynamic-ip-186874117.cable.net.co
+0 17 17 1881507 1 1331389051
+/semilla-certificada-teca.html
+61.135.249.57
+0 1 1 6878 1 1332063148
+/
+61.135.249.59
+0 1 1 6878 1 1332098947
+/
+msnbot-207-46-192-48.search.msn.com
+0 2 0 0 0 0
+-
+18.48.148.190.dynamic.intelnet.net.gt
+0 15 15 1803205 1 1330771226
+/semilla-certificada-melina.html
+189.221.69.78.cable.dyn.cableonline.com.mx
+0 17 17 1881507 1 1332417216
+/semilla-certificada-teca.html
+cpe-00155879c239.cpe.cableonda.net
+0 18 18 2195779 1 1331917001
+/nosotros.html
+baiduspider-180-76-5-139.crawl.baidu.com
+0 1 0 0 0 0
+-
+181.144.213.7
+0 15 15 1780281 1 1331847759
+/centro-documentacion.html
+adsl190-71-47-0.epm.net.co
+0 24 24 1968965 1 1332612500
+/centro-documentacion.html
+200.13.157.178
+0 18 16 1865109 1 1332342638
+/semilla-certificada-teca.html
+61.135.248.220
+0 1 1 6878 1 1332071745
+/
+cpe-200-115-202-172.telecentro-reversos.com.ar
+0 15 15 1795511 1 1332683491
+/lista-disponible.html
+qw-in-f103.1e100.net
+0 1 1 23542 0 0
+-
+61.135.248.224
+0 1 1 6878 1 1332042948
+/
+61.135.248.227
+0 1 1 6878 1 1332004181
+/
+201.227.89.18
+0 19 19 2153540 1 1332270271
+/semilla-certificada-teca.html
+254.96.148.190.dynamic.intelnet.net.gt
+0 15 15 1865008 1 1331829145
+/nosotros.html
+61.135.249.79
+0 1 1 6878 1 1331399319
+/
+200.46.123.146
+0 64 64 8658690 1 1331641604
+/contactenos.html
+186.46.90.98
+0 1 1 120141 1 1332157469
+/doc/Protocolo-melina-S
+186.88.40.197
+0 1 1 24014 0 0
+-
+baiduspider-220-181-108-103.crawl.baidu.com
+0 1 1 6878 1 1331007968
+/
+mx2.sat.gob.mx
+0 17 17 1881507 1 1330953386
+/semilla-certificada-teca.html
+61.135.248.236
+0 1 1 6878 1 1331370815
+/
+crawl03.exabot.com
+0 4 1 6878 2 1331291270
+/
+tdev186-71.codetel.net.do
+0 14 14 1793828 1 1331973594
+/lista-disponible.html
+92.f5.344a.static.theplanet.com
+0 1 1 6878 1 1331716329
+/
+msnbot-207-46-204-173.search.msn.com
+0 2 2 5169 0 0
+-
+dsl-189-236-53-42-dyn.prod-infinitum.com.mx
+0 33 33 2086977 1 1332162921
+/nosotros.html
+118-175-82-35.adsl.totbb.net
+0 41 41 3785489 2 1332404859
+/contactenos.html
+65.167.24.58
+0 16 16 1865109 1 1332416791
+/semilla-certificada-teca.html
+61.135.249.88
+0 1 1 6878 1 1332080823
+/
+p5ddb711a.dip.t-dialin.net
+0 2 1 6878 1 1332138948
+/
+baiduspider-220-181-108-110.crawl.baidu.com
+0 1 1 4483 1 1331918852
+/galeria.html
+dsl-187-134-248-107-dyn.prod-infinitum.com.mx
+0 19 19 1923627 1 1331038985
+/
+baiduspider-220-181-108-114.crawl.baidu.com
+0 1 1 6878 1 1332768750
+/
+baiduspider-123-125-71-12.crawl.baidu.com
+0 1 1 0 0 0
+-
+baiduspider-220-181-108-118.crawl.baidu.com
+0 1 1 6878 1 1330906942
+/
+190.42.169.248
+0 18 18 3449549 1 1332255643
+/contactenos.html
+msnbot-207-46-13-101.search.msn.com
+0 5 1 6878 2 1332700657
+/
+190.238.195.30
+0 8 8 658060 1 1330895416
+/falsh-gallery/3-Semillas-y-Viveros/flashgallery.html
+msnbot-157-55-16-57.search.msn.com
+0 1 1 120141 1 1330576539
+/doc/Protocolo-melina-S
+61.135.249.94
+0 1 1 6878 1 1332119069
+/
+msnbot-65-52-108-20.search.msn.com
+0 8 0 0 5 1332796359
+/falsh-gallery/1-Fuentes_Semilleras/flashgallery.html
+corporat190-025226047.sta.etb.net.co
+0 52 52 7035673 1 1332347532
+/semilla-certificada-teca.html
+baiduspider-123-125-71-27.crawl.baidu.com
+0 1 1 0 0 0
+-
+201.194.148.185
+0 118 118 18897863 1 1331116721
+/semilla-certificada-teca.html
+186.170.155.73
+0 20 20 1940025 1 1332442135
+/
+msnbot-207-46-199-46.search.msn.com
+0 8 2 398003 2 1331066621
+/doc/Protocolo-de-teca-S
+dsl-189-182-234-223-dyn.prod-infinitum.com.mx
+0 16 16 2545390 1 1331042800
+/semillas-forestales.html
+dsl-187-143-178-228-dyn.prod-infinitum.com.mx
+0 12 12 156458 1 1331503603
+/contactenos.html
+baiduspider-123-125-71-30.crawl.baidu.com
+0 1 1 107844 0 0
+-
+cpe-76-88-88-162.san.res.rr.com
+0 28 28 2001471 1 1330988068
+/distribuidores.html
+186.180.166.160
+0 1 1 120141 1 1330612916
+/doc/Protocolo-melina-S
+baiduspider-123-125-71-34.crawl.baidu.com
+0 2 2 107844 0 0
+-
+dsl-189-133-159-219-dyn.prod-infinitum.com.mx
+0 22 22 1916335 1 1330639172
+/semilla-certificada-melina.html
+61.135.249.5
+0 1 1 120141 1 1332085672
+/doc/Protocolo-melina-S
+baiduspider-123-125-71-38.crawl.baidu.com
+0 2 0 0 0 0
+-
+static.147.71.46.78.clients.your-server.de
+0 1 0 0 0 0
+-
+dedint-201-158-129-11.salcoah.static.axtel.net
+0 17 17 3349019 1 1330597974
+/semillas-forestales.html
+pz-in-f82.1e100.net
+0 1 1 1683 0 0
+-
+208.115.113.90
+0 39 20 157486 18 1332762841
+/contactenos.html
+201.191.198.25
+0 45 45 3852124 1 1332195204
+/
+59.34.197.77
+0 1 0 0 0 0
+-
+baiduspider-220-181-108-143.crawl.baidu.com
+0 1 1 6563 0 0
+-
+ec2-175-41-141-147.ap-southeast-1.compute.amazonaws.com
+0 4 4 27512 4 1332765907
+/
+static-ip-cr19014724775.cable.net.co
+0 24 24 1966588 1 1332507953
+/distribuidores.html
+baiduspider-123-125-71-45.crawl.baidu.com
+0 1 0 0 0 0
+-
+r4-4pn-665ns
+0 15 15 174608 1 1332719873
+/semilla-certificada-teca.html
+pz-in-f93.1e100.net
+0 1 1 14536 0 0
+-
+baiduspider-123-125-71-102.crawl.baidu.com
+0 2 2 13756 2 1331652626
+/
+baiduspider-123-125-71-106.crawl.baidu.com
+0 1 1 6878 1 1331202693
+/
+dsl-187-143-76-179-dyn.prod-infinitum.com.mx
+0 37 37 3726618 1 1332791783
+/nosotros.html
+201.191.198.37
+0 17 17 1881507 1 1331311017
+/semilla-certificada-teca.html
+baiduspider-220-181-108-150.crawl.baidu.com
+0 1 1 6563 0 0
+-
+baiduspider-123-125-71-52.crawl.baidu.com
+0 1 1 12949 0 0
+-
+ip-190-53-37-100.ni.amnetdatos.net
+0 30 30 6324806 1 1331741534
+/semillas-forestales.html
+dsl-187-204-139-225-dyn.prod-infinitum.com.mx
+0 20 20 1889979 1 1330939789
+/contactenos.html
+baiduspider-220-181-108-158.crawl.baidu.com
+0 2 2 20128 1 1332151295
+/semillas-forestales.html
+baiduspider-123-125-71-56.crawl.baidu.com
+0 2 0 0 0 0
+-
+wtp-g3-maya7.sjdc
+0 7 7 5081841 0 0
+-
+190.125.41.23
+0 16 16 1819603 1 1332681291
+/semilla-certificada-melina.html
+msnbot-157-55-17-199.search.msn.com
+0 4 1 3347 2 1331603481
+/servicios.html
+baiduspider-123-125-71-113.crawl.baidu.com
+0 2 2 13756 2 1331465792
+/
+unproxy3.unal.edu.co
+0 2 2 47934 0 0
+-
+qy-in-f99.1e100.net
+0 1 1 523 0 0
+-
+baiduspider-220-181-108-161.crawl.baidu.com
+0 1 1 120141 1 1332201968
+/doc/Protocolo-melina-S
+acceso.unad.edu.co
+0 20 20 1940025 1 1331127515
+/
+201.203.108.26
+0 17 17 1881507 1 1330967326
+/semilla-certificada-teca.html
+186.46.75.126
+0 15 15 1803205 1 1331414587
+/semilla-certificada-melina.html
+201.194.102.181
+0 24 24 1975236 1 1332504165
+/lista-disponible.html
+dsl-201-110-241-63-dyn.prod-infinitum.com.mx
+0 27 27 2025106 1 1332590072
+/distribuidores.html
+customer-lmm-113-164.megared.net.mx
+0 20 20 1878423 1 1330615612
+/semilla-certificada-melina.html
+static.213-133-109-15.clients.your-server.de
+0 2 1 6878 1 1331346151
+/
+r200-40-68-38.ae-static.anteldata.net.uy
+0 2 2 163964 0 0
+-
+baiduspider-220-181-108-172.crawl.baidu.com
+0 2 2 10372 1 1331393736
+/
+baiduspider-123-125-71-70.crawl.baidu.com
+0 1 1 12949 0 0
+-
+190.87.196.53
+0 15 15 1865008 1 1330783973
+/nosotros.html
+baiduspider-220-181-108-176.crawl.baidu.com
+0 1 1 4821 0 0
+-
+msnbot-157-55-17-90.search.msn.com
+0 5 5 72381 1 1331190685
+/falsh-gallery/1-Fuentes_Semilleras/flashgallery.html
+178-168-12-4.starnet.md
+0 1 1 0 1 1331010391
+/
+dsl-189-148-109-38-dyn.prod-infinitum.com.mx
+0 17 17 1881507 1 1331832233
+/semilla-certificada-teca.html
+dsl-189-174-17-78-dyn.prod-infinitum.com.mx
+0 4 4 256680 1 1331226022
+/doc/Protocolo-melina-S
+208-115-111-74-reverse.wowrack.com
+0 38 19 141121 19 1332793115
+/nosotros.html
+65.49.14.58
+0 1 1 120141 1 1330589374
+/doc/Protocolo-melina-S
+201.191.198.63
+0 35 35 6834375 1 1331659336
+/semilla-certificada-teca.html
+msnbot-207-46-199-172.search.msn.com
+0 3 2 30420 1 1331802153
+/
+msnbot-207-46-199-11.search.msn.com
+0 1 0 0 0 0
+-
+200.23.135.193
+0 114 97 12567889 3 1331302940
+/nosotros.html
+pz-in-f88.1e100.net
+0 1 1 3494 0 0
+-
+201.206.133.198
+0 20 20 1940025 1 1331202162
+/
+baiduspider-123-125-71-81.crawl.baidu.com
+0 2 0 0 0 0
+-
+dsl-189-234-186-217-dyn.prod-infinitum.com.mx
+0 19 19 1923627 1 1331600313
+/
+baiduspider-220-181-108-187.crawl.baidu.com
+0 2 2 257315 2 1332223462
+/doc/Protocolo-de-teca-S
+65.49.14.60
+0 3 3 133582 1 1330951141
+/
+baiduspider-123-125-71-89.crawl.baidu.com
+0 2 2 17331 0 0
+-
+gy-in-f80.1e100.net
+0 1 1 13740 0 0
+-
+dsl-187-151-83-89-dyn.prod-infinitum.com.mx
+0 18 18 1840426 1 1331480826
+/distribuidores.html
+186.32.19.165
+0 19 19 1873647 1 1331022156
+/centro-documentacion.html
+19014255136.ip40.static.mediacommerce.com.co
+0 26 26 2681604 1 1332750390
+/contactenos.html
+pz-in-f99.1e100.net
+0 1 1 6563 0 0
+-
+zaruma.empsetel.net
+0 22 22 1888286 1 1332361485
+/semilla-certificada-melina.html
+151.65.142.130
+0 14 14 1793828 1 1331459947
+/lista-disponible.html
+baiduspider-123-125-71-92.crawl.baidu.com
+0 1 1 13837 0 0
+-
+190.103.109.108
+0 18 18 2001648 2 1331911307
+/doc/Protocolo-melina-S
+static-adsl190-250-182-181.une.net.co
+0 1 1 120141 1 1331298689
+/doc/Protocolo-melina-S
+baiduspider-123-125-71-96.crawl.baidu.com
+0 1 0 0 0 0
+-
+80.red-88-8-20.dynamicip.rima-tde.net
+0 17 17 1881507 1 1331817007
+/semilla-certificada-teca.html
+iad1-wtp-gd-maya3.sdi.trendnet.org
+0 5 5 1950667 1 1330955401
+/doc/Protocolo-melina-S
+msnbot-65-52-108-58.search.msn.com
+0 3 1 1683 1 1332501398
+/servicios.html
+msnbot-65-52-104-20.search.msn.com
+0 11 2 240282 6 1331588612
+/semilla-certificada-melina.html
+88.214.193.166
+0 4 4 27512 4 1332504005
+/
+190-206-86-176.dyn.dsl.cantv.net
+0 16 16 1865109 1 1331485503
+/semilla-certificada-teca.html
+msnbot-207-46-13-209.search.msn.com
+0 4 2 6656 4 1331069094
+/falsh-gallery/1-Fuentes_Semilleras/flashgallery.html
+35.163.148.190.dynamic.intelnet.net.gt
+0 13 13 1777430 1 1331588097
+/lista-disponible.html
+pz-in-f101.1e100.net
+0 1 0 0 1 1332784563
+/doc/Protocolo-melina-S
+scz-190-104-24-00036.wimaxtigo.bo
+0 20 20 1940025 1 1331563734
+/
+gy-in-f83.1e100.net
+0 2 2 1254533 0 0
+-
+msnbot-157-55-16-222.search.msn.com
+0 40 13 4702434 13 1332825987
+/galeria.html
+dynamic-200-87-157-189.entelnet.bo
+0 18 18 1840426 1 1332060680
+/distribuidores.html
+201.191.198.94
+0 27 27 2265376 1 1331167310
+/nosotros.html
+baiduspider-220-181-108-76.crawl.baidu.com
+0 1 1 20402 1 1332150598
+/lista-disponible.html
+tandem.force9.co.uk
+0 20 20 1940025 1 1332304188
+/
+dsl-187-171-205-200-dyn.prod-infinitum.com.mx
+0 20 20 1940025 1 1332537609
+/
+customer-187-141-84-91-sta.uninet-ide.com.mx
+0 17 17 1991460 2 1332078677
+/semilla-certificada-teca.html
+msnbot-207-46-194-150.search.msn.com
+0 3 2 29779 1 1332318610
+/semilla-certificada-melina.html
+yx-in-f92.1e100.net
+0 2 2 30530 0 0
+-
+host-186-3-75-239.telconet.net
+0 16 16 1805044 1 1331060316
+/semilla-certificada-melina.html
+msnbot-207-46-13-117.search.msn.com
+0 2 0 0 1 1331253955
+/falsh-gallery/2-Almacenaje_Semillas/flashgallery.html
+yi-in-f81.1e100.net
+0 1 1 11120 0 0
+-
+gy-in-f94.1e100.net
+0 1 1 10001 1 1332321349
+/semilla-certificada-teca.html
+msnbot-65-52-109-199.search.msn.com
+0 1 0 0 1 1330920397
+/
+crawl-66-249-71-207.googlebot.com
+0 14 3 68270 8 1331226713
+/
+adsl201-245243128.dyn.etb.net.co
+0 4 4 256680 1 1332765836
+/doc/Protocolo-melina-S
+19012112842.ip41.static.mediacommerce.com.co
+0 68 53 6241360 1 1331073364
+/nosotros.html
+ip88.192.74.176.tralex.se
+0 3 3 163332 1 1331701027
+/semilla-certificada-teca.html
+190.69.1.22
+0 8 8 1906840 3 1332261034
+/semilla-certificada-teca.html
+224-80-212-190.enitel.net.ni
+0 23 23 1984090 2 1332025422
+/semilla-certificada-melina.html
+190.151.74.220
+0 9 9 148925 1 1331196096
+/semilla-certificada-teca.html
+176-9-51-138.crawler.sistrix.net
+0 13 12 85510 1 1331658636
+/contactenos.html
+s37-09.opera-mini.net
+0 18 18 1888686 1 1331732355
+/semillas-forestales.html
+baiduspider-220-181-108-90.crawl.baidu.com
+0 1 1 7179 1 1332077085
+/semillas-forestales.html
+msnbot-207-46-204-167.search.msn.com
+0 2 2 5169 0 0
+-
+customer-148-233-11-198.uninet-ide.com.mx
+0 17 17 5165221 1 1331661500
+/contactenos.html
+baiduspider-220-181-108-94.crawl.baidu.com
+0 1 1 7055 1 1332077082
+/nosotros.html
+gy-in-f86.1e100.net
+0 1 1 14536 0 0
+-
+dsl-189-136-44-151-dyn.prod-infinitum.com.mx
+0 27 27 2025106 1 1330924231
+/distribuidores.html
+customer-dgo-152-242.megared.net.mx
+0 20 20 1863387 1 1332770812
+/distribuidores.html
+adsl190-26176095.dyn.etb.net.co
+0 17 17 1881507 1 1330967205
+/semilla-certificada-teca.html
+201.192.11.186
+0 4 4 256680 1 1330638096
+/doc/Protocolo-melina-S
+190.211.95.1
+0 63 63 7424277 2 1331557232
+/contactenos.html
+yx-in-f95.1e100.net
+0 2 2 14614 0 0
+-
+ww-in-f89.1e100.net
+0 1 0 0 1 1330828003
+/doc/Protocolo-de-teca-S
+cpe-0023cdc9f76d.cpe.cableonda.net
+0 13 13 1764207 1 1330697562
+/semillas-forestales.html
+gx-in-f81.1e100.net
+0 1 0 0 1 1331761504
+/doc/Protocolo-melina-S
+ip13-97-15-186.ct.co.cr
+0 4 4 232086 0 0
+-
+11.21.198.77.rev.sfr.net
+0 20 20 1925310 1 1332415213
+/
+yi-in-f84.1e100.net
+0 1 1 523 0 0
+-
+201.205.23.166
+0 41 41 3291133 1 1330812419
+/servicios.html
+msnbot-207-46-194-45.search.msn.com
+0 3 2 40131 1 1332566498
+/semilla-certificada-teca.html
+vlweb02.fkpscorpio.com
+0 19 0 0 0 0
+-
+200.74.144.236
+0 34 34 2044757 1 1330691361
+/semillas-forestales.html
+1901424834.ip33.static.mediacommerce.com.co
+0 17 17 1881507 1 1331458061
+/semilla-certificada-teca.html
+gx-in-f92.1e100.net
+0 3 3 20869 1 1331748731
+/distribuidores.html
+yi-in-f95.1e100.net
+0 2 2 18216 0 0
+-
+gy-in-f89.1e100.net
+0 2 2 6983 0 0
+-
+customer-gdl-193-120.megared.net.mx
+0 42 42 6924817 1 1330967749
+/centro-documentacion.html
+190.69.1.52
+0 3 3 110334 1 1330955272
+/doc/Protocolo-melina-S
+vw-in-f81.1e100.net
+0 1 1 10001 1 1330804298
+/semilla-certificada-teca.html
+host-137-82-2-96.midco.net
+0 2 1 6878 1 1331337527
+/
+206-53-144-162.rdns.blackberry.net
+0 4 4 36765 0 0
+-
+customer-205-68.porta.net
+0 38 38 3057105 1 1330599146
+/centro-documentacion.html
+190.253.183.141
+0 13 13 1764207 1 1330948452
+/semillas-forestales.html
+190-92-53-227.reverse.cablecolor.hn
+0 19 19 1931932 1 1331225711
+/semilla-certificada-teca.html
+186.46.222.225
+0 4 4 232086 0 0
+-
+msnbot-207-46-204-215.search.msn.com
+0 4 4 10338 0 0
+-
+dynamic-ip-18683137254.cable.net.co
+0 19 19 1886455 1 1332596919
+/nosotros.html
+dynamic-ip-18686107199.cable.net.co
+0 32 32 2096902 1 1331145833
+/semilla-certificada-melina.html
+baiduspider-180-76-5-141.crawl.baidu.com
+0 1 1 6878 1 1331763945
+/
+gx-in-f84.1e100.net
+0 1 1 36414 0 0
+-
+208.50.101.154
+0 1 1 120141 1 1332077928
+/doc/Protocolo-melina-S
+168.234.75.2
+0 17 17 1881507 1 1331300260
+/semilla-certificada-teca.html
+yi-in-f87.1e100.net
+0 3 3 9282 1 1331813333
+/semillas-forestales.html
+190.69.1.62
+0 20 20 1930296 0 0
+-
+dsl-189-132-244-134-dyn.prod-infinitum.com.mx
+0 16 16 1881406 1 1332541518
+/nosotros.html
+customer-187-141-84-87-sta.uninet-ide.com.mx
+0 1 1 120141 1 1331146513
+/doc/Protocolo-melina-S
+201-147-95-98.uninet.net.mx
+0 55 55 5675292 3 1332768146
+/semilla-certificada-teca.html
+iy-in-f82.1e100.net
+0 1 1 1683 0 0
+-
+68-171-231-82.rdns.blackberry.net
+0 23 23 239184 1 1332623068
+/contactenos.html
+gx-in-f95.1e100.net
+0 2 1 11120 1 1331761561
+/doc/Protocolo-melina-S
+186.188.173.122
+0 25 25 2049789 1 1331752854
+/
+evo-hl21-1.gameservers.net
+0 2 1 6878 1 1332659265
+/
+201.196.17.188
+0 167 167 31262693 1 1332773320
+/falsh-gallery/6-Madera-y-muebles/flashgallery.html
+dynamic-ip-18682188117.cable.net.co
+0 49 49 6209238 1 1331390316
+/contactenos.html
+baiduspider-220-181-108-113.crawl.baidu.com
+0 2 2 12643 2 1332588856
+/
+baiduspider-123-125-71-15.crawl.baidu.com
+0 1 1 13837 0 0
+-
+iy-in-f93.1e100.net
+0 1 0 0 1 1330954594
+/doc/Protocolo-melina-S
+gx-in-f87.1e100.net
+0 2 1 17863 1 1332236259
+/doc/Protocolo-de-teca-S
+unproxy17.unal.edu.co
+0 3 3 90086 0 0
+-
+dsl-189-133-225-217-dyn.prod-infinitum.com.mx
+0 18 17 1881507 1 1331307659
+/semilla-certificada-teca.html
+baiduspider-123-125-71-22.crawl.baidu.com
+0 2 2 4821 0 0
+-
+baiduspider-180-76-5-63.crawl.baidu.com
+0 1 0 0 0 0
+-
+adsl-98-77-187-85.mia.bellsouth.net
+0 19 19 1888296 1 1331567769
+/contactenos.html
+msnbot-207-46-204-242.search.msn.com
+0 3 1 107844 1 1331383143
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/flashgallery.html
+iy-in-f85.1e100.net
+0 1 1 20402 1 1332613818
+/lista-disponible.html
+200.49.190.36
+0 24 22 4925021 1 1331800851
+/semilla-certificada-melina.html
+qa-in-f32.1e100.net
+0 1 0 0 1 1332771957
+/doc/Protocolo-de-teca-S
+msnbot-207-46-194-148.search.msn.com
+0 3 2 10372 1 1331544738
+/
+msnbot-207-46-204-181.search.msn.com
+0 2 0 0 1 1330767838
+/distribuidores.html
+dsl-189-236-78-212-dyn.prod-infinitum.com.mx
+0 34 34 4107172 1 1332783178
+/semilla-certificada-teca.html
+map20.network49.191.tigo.net.gt
+0 25 25 3700049 1 1330677832
+/semillas-forestales.html
+190.235.175.10
+0 40 40 3803412 1 1332283723
+/distribuidores.html
+187.161.33.165
+0 20 20 1940025 1 1332343379
+/
+host188.186-191-11.telmex.net.ar
+0 21 21 2634308 1 1330591899
+/semillas-forestales.html
+148.249.125.176
+0 21 21 2190462 1 1331200668
+/doc/Protocolo-de-teca-S
+206-53-144-165.rdns.blackberry.net
+0 2 2 16564 1 1332508212
+/semilla-certificada-teca.html
+qw-in-f101.1e100.net
+0 1 1 353 0 0
+-
+baiduspider-123-125-71-33.crawl.baidu.com
+0 1 1 3494 0 0
+-
+msnbot-157-55-16-229.search.msn.com
+0 17 5 600705 11 1332793786
+/doc/Protocolo-melina-S
+baiduspider-220-181-108-139.crawl.baidu.com
+0 1 1 1683 0 0
+-
+41.203.64.128
+0 3 3 239116 1 1331647988
+/doc/Protocolo-melina-S
+109.62.159.88
+0 1 1 6878 1 1330772429
+/
+qa-in-f24.1e100.net
+0 1 0 0 1 1332772809
+/doc/Protocolo-de-teca-S
+dsl-189-190-232-55-dyn.prod-infinitum.com.mx
+0 1 1 107844 0 0
+-
+gprsinternet120.iclaro.com.ec
+0 14 14 1793828 1 1330985283
+/lista-disponible.html
+baiduspider-220-181-108-142.crawl.baidu.com
+0 1 1 6878 1 1332272810
+/
+190.10.126.180
+0 24 24 1954184 1 1332342497
+/lista-disponible.html
+baiduspider-220-181-108-146.crawl.baidu.com
+0 1 1 3494 0 0
+-
+baiduspider-123-125-71-44.crawl.baidu.com
+0 1 0 0 0 0
+-
+fixed-203-217-3.iusacell.net
+0 32 32 3721473 1 1331388414
+/distribuidores.html
+186.42.119.102
+0 28 28 1918030 1 1331207771
+/distribuidores.html
+200.49.190.59
+0 15 15 1782288 1 1330942104
+/semillas-forestales.html
+dsl-187-192-50-180-dyn.prod-infinitum.com.mx
+0 4 4 311530 0 0
+-
+baiduspider-123-125-71-101.crawl.baidu.com
+0 1 1 6878 1 1331353737
+/
+dynamic-ip-1868110375.cable.net.co
+0 4 4 256680 1 1332428191
+/doc/Protocolo-melina-S
+186.0.80.225
+0 14 14 1780605 1 1331587038
+/semillas-forestales.html
+static-bafibra190-0-32-198.epm.net.co
+0 1 1 120141 1 1332577128
+/doc/Protocolo-melina-S
+80-241-247-204.collocation.co.ge
+0 1 0 0 0 0
+-
+190.145.14.251
+0 50 50 3946547 1 1332412429
+/semilla-certificada-teca.html
+dsl-187-133-6-226-dyn.prod-infinitum.com.mx
+0 38 38 10663051 1 1332771833
+/contactenos.html
+dsl-200-67-163-134-sta.prod-empresarial.com.mx
+0 17 17 1881507 1 1332783380
+/semilla-certificada-teca.html
+186.4.39.118
+0 32 32 3367180 1 1331137330
+/lista-disponible.html
+baiduspider-220-181-108-157.crawl.baidu.com
+0 2 2 140543 2 1332452336
+/doc/Protocolo-melina-S
+118.249.110.238
+0 1 0 0 0 0
+-
+ppp-ras-med-200-35-40-45.edatel.net.co
+0 28 28 2462859 1 1331792983
+/centro-documentacion.html
+qw-in-f104.1e100.net
+0 1 1 31536 0 0
+-
+crawl-66-249-71-204.googlebot.com
+0 14 9 1354259 3 1332293047
+/
+201.186.154.51
+0 19 19 2223840 1 1332759073
+/semilla-certificada-teca.html
+186.91.187.54
+0 17 17 1871672 1 1332602158
+/semilla-certificada-teca.html
+84.121.204.14.dyn.user.ono.com
+0 4 4 232086 0 0
+-
+baiduspider-123-125-71-112.crawl.baidu.com
+0 1 1 6878 1 1331404022
+/
+186.42.13.137
+0 1 1 120141 1 1330946761
+/doc/Protocolo-melina-S
+74-82-64-34.rdns.blackberry.net
+0 16 16 151930 1 1331753473
+/semilla-certificada-melina.html
+200.24.196.150
+0 24 24 1966588 1 1330967976
+/distribuidores.html
+baiduspider-123-125-71-116.crawl.baidu.com
+0 1 1 6878 1 1331209860
+/
+201.204.180.6
+0 18 18 1979641 1 1330588760
+/contactenos.html
+wtp-g8-maya2.iad1
+0 2 2 5169 0 0
+-
+ip179-224-15-186.ct.co.cr
+0 107 107 13892607 3 1332160456
+/semilla-certificada-teca.html
+dsl-189-133-202-92-dyn.prod-infinitum.com.mx
+0 24 24 2078659 1 1332085215
+/doc/Protocolo-melina-S
+ec2-23-20-88-254.compute-1.amazonaws.com
+0 1 1 6878 1 1330582401
+/
+222.240.1.65
+0 1 0 0 0 0
+-
+qa-in-f38.1e100.net
+0 1 0 0 1 1332771958
+/doc/Protocolo-melina-S
+dynamic-ip-1868118410.cable.net.co
+0 14 14 1780605 1 1331810302
+/semillas-forestales.html
+baiduspider-220-181-108-171.crawl.baidu.com
+0 2 2 13756 2 1331465822
+/
+udp292774uds.hawaiiantel.net
+0 2 1 6878 1 1331401583
+/
+baiduspider-220-181-108-175.crawl.baidu.com
+0 3 3 18928 3 1332151761
+/centro-documentacion.html
+dynamic-ip-19015794133.cable.net.co
+0 4 4 256680 1 1331239746
+/doc/Protocolo-melina-S
+baiduspider-220-181-108-179.crawl.baidu.com
+0 2 2 13756 2 1331595274
+/
+186-186-122-153.genericrev.telcel.net.ve
+0 29 28 3645780 1 1331488894
+/semilla-certificada-teca.html
+190.3.224.199
+0 4 4 256680 1 1330681456
+/doc/Protocolo-melina-S
+64.124.203.75.available.above.net
+0 1 0 0 0 0
+-
+dynamic-ip-1868447179.cable.net.co
+0 4 4 256680 1 1331749931
+/doc/Protocolo-melina-S
+186.114.113.169
+0 1 1 120141 1 1331224130
+/doc/Protocolo-melina-S
+176-9-51-131.crawler.sistrix.net
+0 13 12 85510 1 1331681054
+/contactenos.html
+201.141.205.223
+0 48 47 6956495 1 1331074012
+/semilla-certificada-melina.html
+baiduspider-220-181-108-182.crawl.baidu.com
+0 1 1 6878 1 1331839840
+/
+dynamic-ip-186145175192.cable.net.co
+0 68 50 6999177 1 1331419661
+/
+baiduspider-220-181-108-186.crawl.baidu.com
+0 2 2 13756 2 1331548323
+/
+201.205.148.222
+0 2 2 136539 1 1332523329
+/doc/Protocolo-melina-S
+dyn2-212-50-133-231.psoas.suomi.net
+0 2 1 6878 1 1331928095
+/
+201.219.3.218
+0 37 37 3845917 1 1331205007
+/
+173.192.34.95-static.reverse.softlayer.com
+0 11 10 78721 1 1331879516
+/distribuidores.html
+proxy.medellin.unal.edu.co
+0 20 20 1940025 1 1332600162
+/
+213.186.127.9.utel.net.ua
+0 21 18 335149 15 1332788984
+/semilla-certificada-teca.html
+dsl-187-132-115-232-dyn.prod-infinitum.com.mx
+0 18 18 1876793 1 1331645538
+/semilla-certificada-teca.html
+dsl-201-153-217-174-dyn.prod-infinitum.com.mx
+0 16 16 1865109 1 1330795300
+/semilla-certificada-teca.html
+baiduspider-123-125-71-95.crawl.baidu.com
+0 3 3 20634 3 1331966083
+/
+s1.960.clients.serverdeals.org
+0 4 2 10206 2 1332165813
+/falsh-gallery/1-Fuentes_Semilleras/flashgallery.html
+ip40-134-15-186.ct.co.cr
+0 21 21 1897583 1 1331831521
+/semillas-forestales.html
+dsl-189-133-183-110-dyn.prod-infinitum.com.mx
+0 46 35 2297352 2 1332009880
+/semilla-certificada-teca.html
+pz-in-f83.1e100.net
+0 2 1 420 1 1330828980
+/doc/Protocolo-de-teca-S
+186.180.220.42
+0 25 25 1968271 1 1332015964
+/distribuidores.html
+msnbot-65-52-104-90.search.msn.com
+0 5 0 0 1 1331594685
+/
+251-11.62-188.cust.bluewin.ch
+0 2 2 266835 1 1332391537
+/doc/Protocolo-de-teca-S
+74.201.155.108
+0 4 4 27512 4 1332765904
+/
+dsl-187-139-87-221-dyn.prod-infinitum.com.mx
+0 25 25 3641805 1 1331937046
+/lista-disponible.html
+pool-108-50-132-164.nwrknj.east.verizon.net
+0 16 16 191006 1 1331019790
+/semilla-certificada-teca.html
+baiduspider-220-181-108-75.crawl.baidu.com
+0 1 1 6563 0 0
+-
+slp.newgold.com
+0 24 24 1970972 1 1331570964
+/lista-disponible.html
+baiduspider-220-181-108-79.crawl.baidu.com
+0 2 2 13756 2 1331918524
+/
+190.65.181.5
+0 33 33 355314 1 1332228880
+/contactenos.html
+msnbot-207-46-13-208.search.msn.com
+0 23 6 2034052 9 1331782759
+/falsh-gallery/3-Semillas-y-Viveros/flashgallery.html
+148.204.175.52
+0 15 15 1803205 1 1331306046
+/semilla-certificada-melina.html
+msnbot-65-52-108-146.search.msn.com
+0 11 1 10001 5 1332687910
+/semilla-certificada-teca.html
+186.90.75.74
+0 14 14 1797832 1 1331137315
+/lista-disponible.html
+crawl-66-249-72-229.googlebot.com
+0 119 36 13591050 56 1332824412
+/nosotros.html
+baiduspider-220-181-108-86.crawl.baidu.com
+0 1 1 1683 0 0
+-
+64.124.203.78.available.above.net
+0 1 0 0 0 0
+-
+108.59.2.201
+0 1 1 6878 1 1330702445
+/
+adsl-190-165-254-219.une.net.co
+0 49 49 6226796 1 1332344811
+/distribuidores.html
+dsl-189-138-164-216-dyn.prod-infinitum.com.mx
+0 27 27 2025106 1 1330638373
+/distribuidores.html
+201.207.2.6
+0 4 4 256680 1 1331021103
+/doc/Protocolo-melina-S
+190.129.68.40
+0 74 45 6997257 1 1331737565
+/semillas-forestales.html
+190.129.68.45
+0 33 32 6432734 1 1331647653
+/falsh-gallery/1-Fuentes_Semilleras/flashgallery.html
+baiduspider-220-181-108-93.crawl.baidu.com
+0 1 1 6878 1 1332541172
+/
+168.176.79.15
+0 1 1 1690501 0 0
+-
+msnbot-157-55-16-230.search.msn.com
+0 4 2 240282 3 1330837229
+/semilla-certificada-melina.html
+msnbot-207-46-194-66.search.msn.com
+0 6 4 42530 2 1331127322
+/distribuidores.html
+m21s3-1-8da.ispgateway.de
+0 11 11 74742 1 1332189439
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/flashgallery.html
+ip129-143-122-200.ct.co.cr
+0 31 31 2085684 1 1331211284
+/nosotros.html
+dynamic-ip-186145219177.cable.net.co
+0 19 19 1888296 1 1331478298
+/contactenos.html
+customer-222-33.porta.net
+0 16 16 1865283 1 1330856282
+/nosotros.html
+200.23.135.205
+0 16 16 1380542 2 1331294449
+/doc/Protocolo-melina-S
+pool-72-64-236-35.tampfl.fios.verizon.net
+0 68 68 5788349 3 1332687613
+/semilla-certificada-teca.html
+61.135.249.124
+0 2 2 13756 2 1331976430
+/
+61.135.249.127
+0 1 1 6878 1 1331235475
+/
+61.135.249.128
+0 1 1 6878 1 1332109540
+/
+207-249-133-114.static.axtel.net
+0 21 21 3171016 1 1331199456
+/
+dynamic-ip-1868020446.cable.net.co
+0 18 17 1881507 1 1331053705
+/semilla-certificada-teca.html
+186-24-16-1.genericrev.telcel.net.ve
+0 22 22 3576545 1 1332325729
+/semilla-certificada-melina.html
+dpc6682162021.direcpc.com
+0 1 1 120141 1 1332451276
+/doc/Protocolo-melina-S
+qw-in-f90.1e100.net
+0 3 3 18103 0 0
+-
+186.4.15.144
+0 18 18 1883190 1 1332417939
+/semilla-certificada-teca.html
+pz-in-f89.1e100.net
+0 1 0 0 1 1332092177
+/doc/Protocolo-melina-S
+msnbot-65-52-109-72.search.msn.com
+0 8 5 447066 3 1332300939
+/falsh-gallery/4-Establecimiento-y-Mantenimiento/flashgallery.html
+61.135.249.134
+0 1 1 6878 1 1331389241
+/
+gy-in-f81.1e100.net
+0 2 2 15817 0 0
+-
+sp2.careerjet.net
+0 8 8 55024 2 1332297602
+/
+190.243.114.134
+0 3 3 240518 1 1330641706
+/doc/Protocolo-melina-S
+msnbot-157-55-18-26.search.msn.com
+0 12 0 0 7 1332803868
+/distribuidores.html
+youdaobot-61-135-249-206.crawler.youdao.com
+0 2 1 120141 1 1331576537
+/doc/Protocolo-melina-S
+dynamic-ip-18614518827.cable.net.co
+0 4 4 256680 1 1331760680
+/doc/Protocolo-melina-S
+dsl-201-124-198-223-dyn.prod-infinitum.com.mx
+0 26 25 1912010 1 1331832061
+/distribuidores.html
+187-164-86-244.static.axtel.net
+0 17 17 1881507 1 1332352555
+/semilla-certificada-teca.html
+61.135.249.145
+0 1 1 6878 1 1332012607
+/
+monitor.site24x7.com
+0 626 626 0 626 1332830708
+/
+ks380405.kimsufi.com
+0 6 3 20634 3 1332707604
+/
+190-206-116-159.dyn.dsl.cantv.net
+0 26 26 4301585 1 1332317733
+/distribuidores.html
+msnbot-157-55-112-199.search.msn.com
+0 2 2 5169 0 0
+-
+msnbot-207-46-194-53.search.msn.com
+0 6 4 48236 2 1331165661
+/distribuidores.html
+223.85.151.186.dynamic.intelnet.net.gt
+0 4 4 230018 0 0
+-
+220.181.94.236
+0 14 0 0 10 1332796729
+/
+dsl-189-138-169-197-dyn.prod-infinitum.com.mx
+0 19 19 1923627 1 1332117220
+/
+pw-in-f101.1e100.net
+0 1 1 1230991 0 0
+-
+www.whois.sc
+0 4 2 13756 2 1332312486
+/
+baiduspider-220-181-108-105.crawl.baidu.com
+0 3 3 18928 3 1332683535
+/
+pz-in-f102.1e100.net
+0 1 1 11120 0 0
+-
+yi-in-f90.1e100.net
+0 3 3 37945 1 1332084977
+/
+baiduspider-220-181-108-109.crawl.baidu.com
+0 2 2 133090 1 1331168404
+/doc/Protocolo-melina-S
+msnbot-207-46-199-169.search.msn.com
+0 6 4 92830 2 1332786538
+/semilla-certificada-teca.html
+msnbot-65-52-109-194.search.msn.com
+0 3 1 6255 2 1331848868
+/galeria.html
+97-81-69-218.dhcp.athn.ga.charter.com
+0 65 53 823218 1 1332711016
+/distribuidores.html
+dsl-189-182-164-13-dyn.prod-infinitum.com.mx
+0 17 17 1881507 1 1330940750
+/semilla-certificada-teca.html
+201.226.186.135
+0 48 48 5794847 2 1331729913
+/nosotros.html
+dsl-189-132-230-138-dyn.prod-infinitum.com.mx
+0 24 24 1966588 1 1330637958
+/semilla-certificada-teca.html
+scz-190-104-7-00043.wimaxtigo.bo
+0 22 22 3681671 1 1331633250
+/nosotros.html
+yx-in-f93.1e100.net
+0 1 1 11120 0 0
+-
+190.86.150.83
+0 3 3 245691 1 1331119111
+/doc/Protocolo-melina-S
+adsl190-28-142-254.epm.net.co
+0 20 20 1912969 1 1332226601
+/semilla-certificada-melina.html
+dsl-189-227-205-238-dyn.prod-infinitum.com.mx
+0 25 25 1967627 1 1330894085
+/lista-disponible.html
+yi-in-f82.1e100.net
+0 1 1 13837 0 0
+-
+gy-in-f95.1e100.net
+0 3 3 51178 1 1332163265
+/contactenos.html
+83.173.128.223.dyn.user.ono.com
+0 24 24 3606321 1 1332068770
+/semilla-certificada-teca.html
+msnbot-65-52-104-88.search.msn.com
+0 11 1 6878 4 1332320271
+/
+qw-in-f96.1e100.net
+0 1 1 1683 0 0
+-
+ip30-wimax.racsa.co.cr
+0 4 4 376821 2 1331910441
+/doc/Protocolo-melina-S
+unproxy6.unal.edu.co
+0 2 2 8246 0 0
+-
+dsl-201-138-9-42-dyn.prod-infinitum.com.mx
+0 17 17 1881507 1 1330977567
+/semilla-certificada-teca.html
+yx-in-f85.1e100.net
+0 1 1 1683 0 0
+-
+baiduspider-220-181-108-123.crawl.baidu.com
+0 1 1 12949 0 0
+-
+baiduspider-180-76-5-66.crawl.baidu.com
+0 1 1 6878 1 1332284519
+/
+baiduspider-123-125-71-25.crawl.baidu.com
+0 2 2 160515 0 0
+-
+gx-in-f90.1e100.net
+0 1 0 0 1 1331767275
+/doc/Protocolo-melina-S
+msnbot-207-46-204-232.search.msn.com
+0 4 2 8453 2 1330938093
+/contactenos.html
+yi-in-f93.1e100.net
+0 1 1 9275 0 0
+-
+gy-in-f87.1e100.net
+0 4 4 46503 0 0
+-
+dsl-189-232-131-193-dyn.prod-infinitum.com.mx
+0 20 20 1940025 1 1332447630
+/
+190.240.119.134
+0 19 19 1884873 1 1331540946
+/semilla-certificada-teca.html
+201.196.204.18
+0 21 21 2163436 1 1331211318
+/nosotros.html
+msnbot-207-46-12-22.search.msn.com
+0 3 3 1702829 1 1331439967
+/semilla-certificada-melina.html
+ccss.sa.cr
+0 1 1 120141 1 1330609233
+/doc/Protocolo-melina-S
+61.135.249.180
+0 1 1 6878 1 1331361102
+/
+61.135.249.181
+0 1 1 6878 1 1331247925
+/
+baiduspider-123-125-71-32.crawl.baidu.com
+0 2 2 4821 0 0
+-
+msnbot-157-55-16-219.search.msn.com
+0 4 0 0 3 1331548736
+/semillas-forestales.html
+baiduspider-123-125-71-36.crawl.baidu.com
+0 2 2 2461982 0 0
+-
+200.48.251.34
+0 20 20 1864003 1 1330881443
+/semillas-forestales.html
+gx-in-f82.1e100.net
+0 2 2 1046 0 0
+-
+200.8.78.61
+0 17 17 1881507 1 1332107256
+/semilla-certificada-teca.html
+186.0.0.11
+0 44 44 9659542 1 1330634214
+/falsh-gallery/1-Fuentes_Semilleras/flashgallery.html
+69.58.178.56
+0 26 22 183816 2 1332276379
+/lista-disponible.html
+175.44.9.95
+0 12 12 95834 1 1332278377
+/distribuidores.html
+136.238.34.95.customer.cdi.no
+0 2 1 6878 1 1331602015
+/
+baiduspider-220-181-108-141.crawl.baidu.com
+0 1 1 6878 1 1331528194
+/
+baiduspider-220-181-108-145.crawl.baidu.com
+0 2 2 270839 2 1332077087
+/lista-disponible.html
+dynamic-ip-186813266.cable.net.co
+0 16 16 1865109 1 1331766851
+/semilla-certificada-teca.html
+baiduspider-220-181-108-149.crawl.baidu.com
+0 1 1 5106 1 1332151528
+/contactenos.html
+177.97.33.dynamic.adsl.gvt.net.br
+0 14 14 3393413 0 0
+-
+68-171-231-81.rdns.blackberry.net
+0 12 12 151300 2 1332623052
+/semilla-certificada-teca.html
+dynamic-ip-adsl-201.222.122.117.cotas.com.bo
+0 17 17 1881507 1 1331216102
+/semilla-certificada-teca.html
+msnbot-207-46-199-226.search.msn.com
+0 6 4 41430 2 1331160041
+/
+gx-in-f93.1e100.net
+0 3 2 3914 1 1332776672
+/doc/Protocolo-melina-S
+190.243.129.95
+0 19 19 1921638 1 1332597452
+/semilla-certificada-teca.html
+46.229.160.208
+0 3 3 2712419 1 1331152528
+/doc/Protocolo-de-teca-S
+p4fcb4e11.dip.t-dialin.net
+0 20 20 1940025 1 1331040776
+/
+baiduspider-123-125-71-104.crawl.baidu.com
+0 2 1 6878 1 1331011752
+/
+host-200-124-249-136.ecutel.net
+0 18 18 1897905 1 1332537830
+/semilla-certificada-teca.html
+baiduspider-123-125-71-108.crawl.baidu.com
+0 2 2 13756 2 1331886504
+/
+225-80-212-190.enitel.net.ni
+0 16 16 1824475 0 0
+-
+89.123.123.11
+0 14 14 1793828 1 1331644009
+/lista-disponible.html
+baiduspider-123-125-71-50.crawl.baidu.com
+0 1 1 3494 0 0
+-
+static-208-80-194-67.as13448.com
+0 3 3 56298 0 0
+-
+pc-110-115-101-190.cm.vtr.net
+0 19 19 1856824 1 1331573975
+/distribuidores.html
+iy-in-f91.1e100.net
+0 1 1 1683 0 0
+-
+gx-in-f85.1e100.net
+0 1 1 1683 0 0
+-
+208.53.187.254
+0 1 1 6878 1 1331321721
+/
+dsl-187-143-198-173-dyn.prod-infinitum.com.mx
+0 4 4 109663 1 1332378354
+/nosotros.html
+baiduspider-123-125-71-111.crawl.baidu.com
+0 3 3 20634 3 1331918511
+/
+yi-in-f88.1e100.net
+0 2 2 31813 0 0
+-
+dsl-187-143-167-162-dyn.prod-infinitum.com.mx
+0 16 16 1865109 1 1331378253
+/semilla-certificada-teca.html
+baiduspider-123-125-71-115.crawl.baidu.com
+0 2 2 13756 2 1331677878
+/
+baiduspider-220-181-108-167.crawl.baidu.com
+0 1 1 6878 1 1331090793
+/
+76.72.167.162
+0 4 1 6878 2 1330807859
+/
+baiduspider-123-125-71-69.crawl.baidu.com
+0 1 0 0 0 0
+-
+76.72.167.164
+0 4 2 13756 2 1331873162
+/
+194.25-176.uio.satnet.net
+0 20 20 1940025 1 1332326697
+/
+baiduspider-220-181-108-170.crawl.baidu.com
+0 3 3 20634 3 1332052578
+/
+173.208.241.226
+0 6 3 20634 3 1332450459
+/
+baiduspider-220-181-108-174.crawl.baidu.com
+0 1 1 5531 1 1330624352
+/servicios.html
+206-53-144-164.rdns.blackberry.net
+0 6 6 115638 0 0
+-
+190.42.146.163
+0 3 3 298566 0 0
+-
+dsl-189-229-124-28-dyn.prod-infinitum.com.mx
+0 11 11 873783 3 1331048446
+/doc/Protocolo-melina-S
+qa-in-f41.1e100.net
+0 1 0 0 1 1332771981
+/doc/Protocolo-melina-S
+64.124.203.71.available.above.net
+0 1 0 0 0 0
+-
+gx-in-f88.1e100.net
+0 4 4 30319 0 0
+-
+dsl-187-173-205-18-dyn.prod-infinitum.com.mx
+0 16 16 1804888 1 1332725388
+/semilla-certificada-melina.html
+web9.alexiadns.com
+0 1 1 6878 1 1331293537
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-72-85.googlebot.com
+0 2 0 0 0 0
+-
+msnbot-157-55-39-86.search.msn.com
+0 1 1 6878 1 1332825279
+/
+baiduspider-123-125-71-56.crawl.baidu.com
+0 1 0 0 0 0
+-
+msnbot-157-55-16-222.search.msn.com
+0 4 2 398003 1 1332825987
+/galeria.html
+crawl-66-249-72-229.googlebot.com
+0 4 1 5765 3 1332824412
+/nosotros.html
+msnbot-65-52-109-72.search.msn.com
+0 1 1 107844 0 0
+-
+monitor.site24x7.com
+0 7 7 0 7 1332830708
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.semrush.com/info/semillasybosques.com
+0 1
+http://search.iminent.com/SearchTheWeb/v4/3082/homepage/Default.aspx
+0 4
+http://www.google.cl/url
+0 1
+http://semillasybosques.com/doc/C.VITAE-W-VASQUEZS-Abril-09.pdf
+0 15
+- (Direct Request)
+0 2848
+http://www.google.com.sv/url
+0 2
+http://semillasybosques.com/semilla-certificada-melina.html
+0 312
+http://www.semillasybosques.com/falsh-gallery/1-Fuentes_Semilleras/flashgallery.swf
+0 20
+http://www.semillasybosques.com/
+0 361
+http://mx.images.search.yahoo.com/images/view
+0 6
+http://www.google.com/m
+0 2
+http://www.google.com/cse
+0 2
+http://bl161w.blu161.mail.live.com/mail/InboxLight.aspx
+0 1
+http://semillasybosques.com/semillas-forestales.html
+0 192
+http://www.health-food-and-fitness.com
+0 4
+http://semillasybosques.com/css/page_css.css
+0 304
+http://semillasybosques.com/doc/REGLAMENTO-TECNICO-PARA-LA-CERTIFICACIÓN-DE-SEMILLAS-Y-PLANTULAS-DE-ESPECIES-FORESTALES-ONS-26
+0 4
+http://www.google.com.ec/url
+0 21
+http://www.google.com.bo/url
+0 9
+http://www.semillasybosques.com/galeria.html
+0 8
+http://www.google.co.uk/url
+0 1
+http://www.google.com/search
+0 8
+http://www.semillasybosques.com/semillas-forestales.html
+0 164
+http://www.google.com.co/search
+0 1
+http://search.babylon.com/
+0 1
+http://semillasybosques.com/doc/Protocolo-de-teca-S
+0 2
+http://www.google.com/imgres
+0 3
+http://www.google.com.co/url
+0 62
+http://www.google.com.gt/url
+0 13
+http://www.google.com.co/imgres
+0 13
+http://semillasybosques.com/falsh-gallery/3-Semillas-y-Viveros/flashgallery.html
+0 10
+http://mx.ask.com/web
+0 1
+http://www.semillasybosques.com/nosotros.html
+0 18
+http://semillasybosques.com/centro-documentacion.html
+0 51
+http://semillasybosques.com/falsh-gallery/2-Almacenaje_Semillas/flashgallery.html
+0 2
+http://www.google.ch/url
+0 1
+http://www.google.hn/imgres
+0 2
+http://semillasybosques.com/doc/GUIA_TECNICA_PARA_LA_PRODUCCION_DE_SEMILLA_FORESTAL_CERTIFICADA_Y_AUTORIZADA.pdf
+0 22
+http://www.google.hn/url
+0 3
+http://www.google.com.do/url
+0 1
+http://www.google.co.ve/search
+0 3
+http://www.whorush.com/search/
+0 3
+http://www.semillasybosques.com/falsh-gallery/3-Semillas-y-Viveros/flashgallery.swf
+0 4
+http://50.22.104.76:2086/cpsess421030641/scripts4/listaccts
+0 1
+http://www.semillasybosques.com/scripts/contactenos.php
+0 50
+http://s.nsdsvc.com/App/DddWrapper.swf
+0 2
+http://www.google.co.cr/url
+0 35
+http://www.bing.com/search
+0 2
+http://www.google.co.ve/imgres
+0 8
+http://www.semillasybosques.com/css/page_css.css
+0 32
+http://semillasybosques.com/galeria.html
+0 90
+http://semillasybosques.com/falsh-gallery/1-Fuentes_Semilleras/flashgallery.swf
+0 306
+http://semillasybosques.com/falsh-gallery/6-Madera-y-muebles/flashgallery.html
+0 18
+http://www.google.com.bo/imgres
+0 2
+http://isearch.babylon.com/
+0 2
+http://semillasybosques.com/contactenos.html
+0 76
+http://start.toshiba.com/search/index.php
+0 2
+http://semillasybosques.com/falsh-gallery/5-Asesoria-Clientes/flashgallery.swf
+0 29
+http://semillasybosques.com/falsh-gallery/4-Establecimiento-y-Mantenimiento/flashgallery.html
+0 12
+http://semillasybosques.com/falsh-gallery/5-Asesoria-Clientes/flashgallery.html
+0 6
+http://semillasybosques.com/distribuidores.html
+0 336
+http://www.semillasybosques.com/falsh-gallery/3-Semillas-y-Viveros/flashgallery.html
+0 2
+http://semillasybosques.com/nosotros.html
+0 312
+http://www.google.com.mx/search
+0 19
+http://www.google.com.mx/url
+0 60
+http://www.google.com.gt/m/search
+0 2
+http://www.google.com.ni/url
+0 3
+http://www.mundoanuncio.com/anuncio/venta_de_semillas_de_teca_certificadas_plantulas_de_alta_calidad_asesorias_1237289380.html
+0 1
+http://www.semillasybosques.com/lista-disponible.html
+0 38
+http://www.google.com.mx/imgres
+0 21
+http://semillasybosques.com/semilla-certificada-teca.html
+0 1806
+http://www.google.com.pe/search
+0 2
+http://www.google.com/url
+0 32
+http://search.softonic.com/MON00032/tb_v1
+0 1
+http://www.google.com.sv/imgres
+0 2
+http://semillasybosques.com/lista-disponible.html
+0 235
+http://mx.search.yahoo.com/search
+0 2
+http://semillasybosques.com/
+0 993
+http://www.semillasybosques.com/semilla-certificada-teca.html
+0 12
+http://www.google.com.ng/url
+0 1
+http://semillasybosques.com/scripts/contactenos.php
+0 280
+http://www.semillasybosques.com/distribuidores.html
+0 186
+http://www.bing.com/images/search
+0 1
+http://www.google.co.cr/search
+0 1
+http://www.vide04you.com
+0 1
+http://start.funmoods.com/results.php
+0 1
+http://www.semillasybosques.com/contactenos.html
+0 14
+http://www.google.com.py/url
+0 2
+http://www.google.co.ve/url
+0 15
+http://www.google.co.cr/imgres
+0 8
+http://semillasybosques.com/falsh-gallery/3-Semillas-y-Viveros/flashgallery.swf
+0 46
+http://es.search-results.com/web
+0 1
+http://domains.checkparams.com/index.php
+0 8
+http://www.google.com.ec/search
+0 2
+http://www.semillasybosques.com/doc/Protocolo-melina-S
+0 2
+http://www.google.com.ec/imgres
+0 2
+http://www.google.cl/imgres
+0 5
+http://search.yahoo.com/search
+0 2
+http://www.reforteca.com/index.php
+0 2
+http://semillasybosques.com/servicios.html
+0 60
+http://whois.domaintools.com/semillasybosques.com
+0 2
+http://search.sweetim.com/search.asp
+0 2
+http://www.psilvicola.com.mx/productos/semilla.shtml
+0 20
+http://www.google.com.gt/search
+0 1
+http://www.google.es/url
+0 7
+http://semillasybosques.com/doc/Protocolo-melina-S
+0 39
+http://semillasybosques.com/falsh-gallery/1-Fuentes_Semilleras/flashgallery.html
+0 94
+http://www.google.com.gt/imgres
+0 2
+http://semillasybosques.com/flash/distribuidores.swf
+0 7
+http://www.semillasybosques.com/centro-documentacion.html
+0 5
+http://search.babylon.com/imageres.php
+0 2
+http://translate.googleusercontent.com/translate_c
+0 11
+http://www.google.com/m/search
+0 2
+http://www.google.com.pe/url
+0 7
+http://www.google.com.ar/url
+0 3
+http://semillasybosques.com/falsh-gallery/4-Establecimiento-y-Mantenimiento/flashgallery.swf
+0 103
+http://www.semillasybosques.com/semilla-certificada-melina.html
+0 6
+http://www.semillasybosques.com/flash/distribuidores.swf
+0 7
+http://www.semillasybosques.com/falsh-gallery/1-Fuentes_Semilleras/flashgallery.html
+0 4
+http://semillasybosques.com/falsh-gallery/2-Almacenaje_Semillas/flashgallery.swf
+0 8
+http://www.google.com.br/url
+0 1
+http://www.google.fr/imgres
+0 2
+http://semillasybosques.com/falsh-gallery/6-Madera-y-muebles/flashgallery.swf
+0 30
+http://www.google.it/url
+0 1
+http://www.google.com.uy/url
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gec
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/53
+0 82
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.2) Gecko/20100101
+0 62
+Mozilla/4.0 (compatible;)
+0 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; es-es) Appl
+0 41
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoP
+0 17
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like 
+0 20
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_4; fr-fr) AppleW
+0 1
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; th-t
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox
+0 6
+Wget/1.9+cvs-stable (Red Hat modified)
+0 1
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobil
+0 11
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SLCC1;  .
+0 4
+Mozilla/5.0 (en-us) AppleWebKit/534.14 (KHTML, like Gecko; Go
+0 60
+Googlebot-Image/1.0
+0 9
+Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X) AppleWebKit/534.
+0 33
+Mozilla/5.0 (compatible; YodaoBot/1.0; http://www.yodao.com/h
+0 25
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.
+0 25
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWe
+0 3
+Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox
+0 15
+Baiduspider+(+http://www.baidu.com/search/spider.htm)
+0 23
+Java/1.6.0_26
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.
+0 1054
+Opera/9.80 (Android; Opera Mini/6.5.27452/27.1324; U; es) Pre
+0 18
+VB-Tec:INET
+0 3
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like 
+0 514
+Mozilla/5.0 (compatible; YoudaoBot/1.0; http://www.youdao.com
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ESB{4B4501
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:2.0) Gecko/20100101 Firefox/4
+0 14
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB7.2; .N
+0 6
+Mozilla/5.0 (compatible; SWEBot/1.0; +http://swebot-crawler.n
+0 18
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.11 (KHTML, like 
+0 42
+TurnitinBot/2.1 (http://www.turnitin.com/robot/crawlerinfo.ht
+0 26
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SIMBAR={22
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.2.27) 
+0 16
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1
+0 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:11.0) Gecko/2
+0 20
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9780; es) AppleWebKit/
+0 2
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9900; es) AppleWebKit/
+0 19
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like G
+0 50
+Mozilla/5.0 (compatible; Google Desktop/5.9.1005.12335; http:
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)
+0 19
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.c
+0 137
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 19
+Mozilla/5.0 (Windows NT 6.1; rv:10.0.2) Gecko/20100101 Firefo
+0 186
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64
+0 206
+Mozilla/5.0 (Symbian/3; Series60/5.3 NokiaN8-00/111.030.0609;
+0 35
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko/20100101 Firefox/
+0 168
+Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20100101 Firefox/5
+0 28
+Mozilla/5.0 (Windows NT 6.0; rv:10.0.2) Gecko/20100101 Firefo
+0 105
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Tri
+0 212
+Aboundex/0.2 (http://www.aboundex.com/crawler/)
+0 11
+Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmaste
+0 12
+Mozilla/5.0 (Windows; U; Windows NT 6.1; es-ES; rv:1.9.2.26) 
+0 21
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9780; en-GB) AppleWebK
+0 20
+Mozilla/5.0 (Windows NT 5.1; rv:10.0) Gecko/20100101 Firefox/
+0 56
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 39
+Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.2.10) 
+0 8
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)._
+0 78
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/g
+0 4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.
+0 12
+Opera/9.52 (X11; Linux i686; U; fr)
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like G
+0 17
+Mozilla/5.0 (Windows NT 6.1; rv:10.0.1) Gecko/20100101 Firefo
+0 20
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like G
+0 4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.51 (KHTML, li
+0 43
+Mozilla/5.0 (Windows; U; Windows NT 5.1; es-AR; rv:1.8.1.11) 
+0 20
+BlackBerry9630/5.0.0.732 Profile/MIDP-2.1 Configuration/CLDC-
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1
+0 99
+GoogleBot 1.0
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2
+0 25
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, 
+0 10
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.
+0 513
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; BTRS1
+0 18
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 15
+Mail.RU/2.0
+0 4
+Googlebot-Video/1.0
+0 1
+Mozilla/5.0 (compatible; en-US; ReverseGet/1.0; http://revers
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/5
+0 4
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.54.16 (KHTML, li
+0 38
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Tri
+0 460
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML
+0 39
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; es) AppleWeb
+0 21
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2
+0 41
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/53
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:8.0.1) Gecko/20100101 Firefox
+0 148
+Mozilla/5.0 (Windows NT 6.1; rv:9.0.1) Gecko/20100101 Firefox
+0 75
+Site24x7
+0 634
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; QQWub
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bo
+0 155
+Mozilla/5.0 (X11; Linux i686; rv:10.0.1) Gecko/20100101 Firef
+0 20
+Opera/7.60 (Windows NT 5.2; U)  [en] (IBM EVV/3.0/EAK01AG9/LE
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.
+0 1
+Mozilla/5.0 (Windows NT 5.0; rv:8.0.1) Gecko/20100101 Firefox
+0 14
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x4.90)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.3) G
+0 5
+Baiduspider-image+(+http://www.baidu.com/search/spider.htm)
+0 30
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_0_1 like Mac OS X) Apple
+0 15
+Mozilla/5.0 (Windows NT 6.1; rv:2.0) Gecko/20100101 Firefox/4
+0 96
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.co
+0 277
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.
+0 197
+Mozilla/5.0 (compatible; MJ12bot/v1.4.2; http://www.majestic1
+0 38
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:11.0) Gecko/20100101 F
+0 19
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.7 (KHTML, like G
+0 36
+Mozilla/5.0 (Windows NT 6.0; rv:2.0.1) Gecko/20100101 Firefox
+0 3
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.
+0 729
+Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+0 77
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-u
+0 52
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML
+0 461
+Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML, 
+0 120
+BlackBerry9300/5.0.0.846 Profile/MIDP-2.1 Configuration/CLDC-
+0 15
+Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/535.11 (KHTML
+0 28
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like 
+0 500
+Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/
+0 38
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:10.0.2) Gecko/201001
+0 49
+Mozilla/5.0 (compatible; DCPbot/1.1; +http://domains.checkpar
+0 8
+Mozilla/5.0 (X11; U; Linux i686; es-AR; rv:1.9.2.24) Gecko/20
+0 15
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; OptusNetDS
+0 1
+Mozilla/5.0 (iPad; CPU OS 5_0_1 like Mac OS X) AppleWebKit/53
+0 33
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bi
+0 229
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; SIMBA
+0 13
+Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.2.13) 
+0 3
+Mozilla/5.2 (Windows; U; Windows NT 5.2; en-EN) Gecko/2009091
+0 1
+Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)
+0 2
+BlackBerry8530/5.0.0.654 Profile/MIDP-2.1 Configuration/CLDC-
+0 23
+Mozilla/5.0 (Windows NT 6.1; rv:10.0) Gecko/20100101 Firefox/
+0 19
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SV1;  .NE
+0 5
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.5) Gecko/20041
+0 1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.7 (KHTML, like 
+0 1
+Mozilla/5.0 (Linux; U; Android 2.1-update1; es-mx; SonyEricss
+0 2
+Mozilla/5.0 (Windows NT 5.1; rv:10.0.2) Gecko/20100101 Firefo
+0 140
+Mozilla/5.0 (compatible; SISTRIX Crawler; http://crawler.sist
+0 26
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.
+0 184
+Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5
+0 21
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; PDASL
+0 3
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.24; ips-agen
+0 23
+Mozilla/5.0 (compatible)
+0 8
+Mozilla/5.0 (Windows NT 5.1; rv:5.0.1) Gecko/20100101 Firefox
+0 26
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:10.0.2) Gecko
+0 17
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.9) G
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Alexa Tool
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 
+0 1
+HolmesBot (http://holmes.ge)
+0 1
+EC2LinkFinder
+0 17
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_5; en-us) Appl
+0 1
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)
+0 217
+Mozilla/5.0 (Windows; U; Windows NT 5.1; es-AR; rv:1.9.2.6) G
+0 17
+Opera/9.80 (Windows NT 6.1; U; es-ES) Presto/2.10.229 Version
+0 22
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.1) Gec
+0 1
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; fr-fr) Apple
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1;  SV1;  .NE
+0 8
+Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox
+0 17
+Mozilla/5.0 (Windows NT 6.1; rv:8.0.1) Gecko/20100101 Firefox
+0 38
+Mozilla/5.0 (compatible; AhrefsBot/2.0; +http://ahrefs.com/ro
+0 21
+# End Of Table - agents
+# -search strings- 
+semillas de melina
+1
+venta de semilla para teka
+1
+inflorescencia de la teca
+1
+gmelina arborea roxb
+1
+cemilla de teca
+1
+numero de semillas de melina en un kilogramo
+3
+nombre cientifico de las semillas de teca
+1
+semilla de teca ecuador
+1
+tiempo de siembra y produccion de gmelina arborea
+1
+vendo planta de teca costa rica
+1
+porcentaje de germinacion de melina
+2
+fotos de la semilla y de plantas de melina
+1
+nombre sientifico de la melina
+1
+semilla logo
+1
+cuales son las categorias de fuentes semilleras
+3
+como es la germinacion de la melina
+1
+investigar la germinacion de la teca
+2
+emilla de teca
+1
+venta de semilla de gmelina arborea en costa rica
+2
+oficina nacional de semillas de costa rica
+1
+plantacion de melina
+1
+como es la germinacion de las tecas
+1
+semlla de teca
+1
+riego de gmelina arborea
+1
+http://www.arborizaciones.com
+1
+venta semillas costa rica
+1
+cultivo de gmelina arborea
+1
+venta de semilla de pino carive
+1
+tiempo de germinacion de la semilla de teca
+1
+como germina la semilla de teca
+1
+plantaciones de melina
+1
+melina semillas
+1
+germinacion de semillas forestales
+2
+semillasy bosques
+1
+caracteristicas de la semilla de teca
+1
+germinacion gmelina arborea
+1
+porcentaje de germinacion de semilla forestales
+1
+germinacion de la melina
+4
+plantaciones de gmelina arborea
+1
+% de germinacion de melina
+2
+semillas
+1
+venta de plantas de teca en mexico
+1
+germinacion desemillas forestales
+1
+numero de semillas por kilo de teca
+1
+costo de la tabla teka
+1
+gmelina arborea pdf
+1
+cuanto cuesta un kilo de semilla de teca
+1
+gmelina arbórea roxb. sembrado por metro cuadrado
+1
+semillas eucalipto deglupta
+1
+que son fuentes viables /kg
+1
+semillas bosques
+2
+semilla teca colombia
+1
+la causa de teca
+1
+venta de semilla de tectona grandis
+1
+venta de semillas de teca
+1
+semillas de melina en costa rica
+1
+nombre cientifico de melina
+1
+plantaciones de teka en mexico
+1
+gmelina arbórea
+1
+fuentes de semillas en mexico de la teca
+1
+comprar semilla de teca
+1
+logos de empresas silvicolas
+1
+como germina la semilla de melina
+1
+melina arborea usos
+1
+logo semilla
+1
+que cuesta la semilla de melina
+1
+fotos de algarrobo
+1
+semillas de teca donde consigo
+1
+precio semillas de teka
+1
+gmelina arborea usos
+1
+venta de semillas de teca en mexico
+1
+produccion gmelina arborea
+1
+manual para la produccion de melina
+1
+germinacion de teca
+1
+como germinar la semilla de melina
+3
+semilla certificada
+2
+cual es la clasificacion de fuentes semilleras
+2
+caliz semilla de teca
+1
+como hacer germinar la semilla de teca
+1
+donde se consigue las semillas de teca en colombia
+1
+arbol de melina.pdf
+1
+semilla de la teca en el ecuador
+1
+venta semilla de pino tecunumanii
+1
+tiempo de germinacion de la teca
+2
+especie arborea teca
+4
+semillas de teca ecuador
+1
+teca semilla
+4
+http://www.arborizaciones.com/
+1
+caracteristicas de la semilla melina
+1
+clasificacion d fuentes semilleras
+1
+semilla de teca costa rica
+2
+semilla de teca
+11
+plantulas de gmelina arborea germinando
+1
+compra de semillas forestales
+1
+bosques de melina
+1
+semillas teca
+2
+bosques de gmelina
+1
+vendo semilla de melina
+1
+listado de semillas forestales
+1
+la semilla de corcho
+1
+semillas de teca
+3
+germinacion de melina
+6
+melina nombre cientifico
+1
+semillas y bosques mejorados panama
+1
+gmelina arborea en colombia
+3
+planta teca
+1
+gmelina arborea
+6
+melina siembra
+1
+costos de la semilla de teca
+1
+plantas por kilo de semilla de teca
+1
+tiempo en germinar la semilla de teca
+1
+semilla de teka
+1
+teca creciendo
+1
+semillas dalbergia retusa
+1
+costa rica semilla de teca
+1
+vivero de melina
+2
+semillas y bosques mejorados s.a
+1
+semilla melina
+3
+venta de semillas de teca en peru
+1
+semillas teca mejorada
+2
+venta de semillas certificadas en mexico
+1
+semilla teca
+2
+vendo semilla de melina ecuador
+2
+empresas silvÍcolas de mexico
+1
+vendo.semilla.teca
+1
+semillas y bosques
+3
+semilla de teca en ecuador
+2
+manejo de fuentes semilleras en america central 1998
+1
+vendedores semilla de teca
+1
+semill de teca
+1
+semillas y bosque mejorados
+1
+semillas de teca en colombia
+2
+teca precios de la semilla
+1
+semilla de teca certificada
+1
+crecimiento de la gmelina pdf
+2
+teca tectona grandis venta
+1
+siembra de gmelina
+1
+venta semillas bolivia
+1
+venta de semillas de teka en peru
+1
+crecimiento de gmelina arborea roxb
+1
+venta de semillas de teca en panama
+1
+cantida de semilla de teca por kilogramo
+1
+imagenes flash de semillas
+1
+donde compro semillas de teka
+1
+semilla teka
+1
+semilla de melina
+7
+viveros de melina
+2
+costa rica venta semilla de teca
+2
+semillas forestales teca ecuador
+1
+venta de semillas de melina
+2
+numero de semillas por kilogramo de lote de semillas
+1
+semillas de teca en mexico
+1
+crecimiento de germinacion de la gmelina
+2
+semillas teka costa rica
+1
+melina (gmelina arbórea)
+1
+venta de semillas de cocobolo
+1
+averiguar precio de semilla de melina
+1
+semillas logo
+1
+psilvicola.com.mx
+1
+teca en mexico
+1
+vivero venta de teka en uraba
+1
+asoteca ecuador
+1
+la semilla de la teca
+2
+nombre comun de khaya senegalensis
+1
+plantaciones de teca en mexico
+1
+donde compro planta de teca en mexico
+1
+venta de semillas forestales
+1
+venta de semillas de teca mexico
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
